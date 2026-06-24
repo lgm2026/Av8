@@ -1,0 +1,240 @@
+==============================================================================
+AVHYPE AVIATION EDUCATION
+LEGAL NOTICES — TERMS OF USE, COPYRIGHT, AND TRADEMARK
+==============================================================================
+
+Operator:        freeFlightDB
+Effective date:  June 14, 2026
+© 2026 freeFlightDB. All rights reserved.
+
+This document contains the Terms of Use, the Copyright Notice, and the
+Trademark Notice for the AvHype Aviation Education website (the “Website”). It is
+provided for reference and may be placed alongside the hosted files. The
+authoritative versions are the notices presented within the Website itself.
+
+Contents:
+  1. Terms of Use
+  2. Copyright Notice
+  3. Trademark Notice
+
+
+==============================================================================
+1. TERMS OF USE
+==============================================================================
+Effective June 14, 2026  ·  © 2026 freeFlightDB. All rights reserved.
+
+1. Acceptance of these Terms
+----------------------------
+These Terms of Use (“Terms”) govern your access to and use of AvHype Aviation Education (the
+“Website”), a free, independent flight-study website operated under the name freeFlightDB (“we,”
+“us,” or the “operator”). By accessing or using the Website, you agree to these Terms. If you do
+not agree, please do not use the Website.
+
+2. What the Website is — and is not
+-----------------------------------
+AvHype Aviation Education is a free, openly accessible educational study resource for people
+learning about aviation and preparing to study FAA subject matter. It is not a flight school, not
+a certificated training provider, and not affiliated with, endorsed by, or sponsored by the
+Federal Aviation Administration (FAA) or any government agency.
+
+The Website does not provide flight or ground instruction within the meaning of the federal
+aviation regulations; does not issue or substitute for any certificate, rating, endorsement,
+logbook entry, knowledge-test result, or medical certificate; and does not authorize you to
+operate any aircraft. All airman certification must be completed through authorized FAA processes,
+certificated instructors, approved testing providers, and designated examiners where required.
+
+3. Eligibility and younger users
+--------------------------------
+The Website is intended for a general audience and may be used by learners of varying ages. It is
+free to use, does not require an account, and does not knowingly collect personal information (see
+the Privacy & Data notice). If you are a minor, you should use the Website with the involvement of
+a parent, guardian, or teacher, and your use is subject to their agreement to these Terms.
+
+Nothing on the Website authorizes anyone, of any age, to operate an aircraft. Real flight activity
+is governed entirely by the FAA and by a certificated instructor.
+
+4. Not professional, legal, or instructional advice
+---------------------------------------------------
+The content on the Website — including lessons, summaries, quiz questions, the glossary, reference
+material, and any milestones or transcripts — is general educational information for self-study.
+It is not flight instruction, legal advice, medical advice, or professional advice, and it is not
+a substitute for a certificated flight instructor or for current, official FAA publications.
+
+Aviation regulations, procedures, weather products, and standards change. Before relying on any
+information for a real flight or a real test, verify it against current FAA sources and confirm it
+with a certificated instructor.
+
+5. Accuracy and “as-is” content
+-------------------------------
+We work to keep the Website accurate and current, but we do not warrant that it is complete,
+error-free, or up to date. Original quiz questions are written for study and are not drawn from
+any official FAA test bank; performing well on the Website's quizzes does not indicate that you
+will pass any official test.
+
+The Website may host or summarize public-domain U.S. Government material and may link to
+third-party websites. We are not responsible for the content, accuracy, or availability of
+third-party material.
+
+6. Your responsibilities
+------------------------
+You agree to use the Website lawfully and for personal, non-commercial study; to independently
+verify any information before acting on it; never to rely on the Website as the sole basis for a
+real-world aeronautical decision; and not to misuse, disrupt, copy, scrape, reverse engineer, or
+create derivative works from the Website except as permitted by law or by the Copyright notice.
+
+7. Your data stays in your browser
+----------------------------------
+The Website saves your progress — such as completed lessons, scores, surveys, logbook entries, and
+settings — locally in your own browser. It does not create an account or transmit this information
+to the operator. You can erase it at any time using “Reset all data” on the Website or by clearing
+your browser storage. See the Privacy & Data notice for details.
+
+8. Intellectual property
+------------------------
+The Website's original content, design, code, and brand are protected by copyright and trademark
+law and remain the property of the operator or its licensors. Public-domain U.S. Government works
+are not claimed. Your use of the Website does not transfer any ownership. Please review the
+Copyright and Trademark notices.
+
+9. Disclaimer of warranties
+---------------------------
+THE WEBSITE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+ACCURACY, OR NON-INFRINGEMENT, TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+10. Limitation of liability
+---------------------------
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE OPERATOR WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY LOSS ARISING FROM YOUR USE OF
+OR RELIANCE ON THE WEBSITE, INCLUDING ANY DECISION RELATED TO FLIGHT OR TRAINING. THE WEBSITE IS A
+FREE STUDY RESOURCE, AND YOU USE IT AT YOUR OWN RISK.
+
+Because the Website is provided free of charge, nothing in these Terms requires the operator to
+provide support, updates, or continued availability.
+
+11. Changes to the Website and these Terms
+------------------------------------------
+We may update, change, or discontinue the Website or these Terms at any time. Changes take effect
+when the updated Website or Terms are made available, and the “Effective” date above will be
+revised. Your continued use after a change means you accept the updated Terms.
+
+12. Governing law
+-----------------
+These Terms are governed by the laws of the United States and of the jurisdiction in which the
+Website's operator is established, without regard to conflict-of-laws rules, except where a
+mandatory consumer-protection law of your own jurisdiction applies.
+
+13. Contact
+-----------
+Questions about these Terms may be directed to the operator through the contact channel provided
+on the Website.
+
+
+==============================================================================
+2. COPYRIGHT NOTICE
+==============================================================================
+Effective June 14, 2026  ·  © 2026 freeFlightDB. All rights reserved.
+
+Copyright
+---------
+© 2026 freeFlightDB. All rights reserved.
+
+Except for material in the public domain, all content on AvHype Aviation Education (the “Website”)
+is the original work of the operator, or is used with permission, and is protected by United
+States and international copyright law.
+
+What is protected
+-----------------
+Protected material includes, without limitation: the original instructional writing and lesson
+text; the selection, sequence, and arrangement of the curriculum; the original quiz questions,
+answers, and explanations; the glossary entries and definitions; the Website's source code; the
+user-interface and visual design; original graphics and icons; and the Website as a whole
+compilation.
+
+U.S. Government material is not claimed
+---------------------------------------
+Works of the U.S. Government — including FAA handbooks, the Aeronautical Information Manual (AIM),
+the Airman Certification Standards (ACS), and the regulations in Title 14 of the Code of Federal
+Regulations — are in the public domain under 17 U.S.C. § 105 and are not copyrighted by the
+operator. The Website references, links to, and summarizes such material for educational purposes
+only.
+
+Original summaries and explanations of public-domain material that were written for the Website
+are themselves original works and are protected.
+
+Third-party material
+--------------------
+Any third-party names, marks, products, or materials referenced on the Website remain the property
+of their respective owners and are used for identification, commentary, or education. See the
+Trademark notice.
+
+What you may do
+---------------
+You may use the Website for personal, non-commercial study. You may keep notes and use material
+you export for your own records, such as your training transcript or logbook.
+
+What you may not do
+-------------------
+Without the operator's prior written permission, you may not copy, reproduce, republish,
+distribute, sell, sublicense, publicly display, modify, translate, reverse engineer, or create
+derivative works from the Website's original content, in whole or in part; remove or alter any
+copyright, trademark, or other proprietary notice; or use the Website's content to build or train
+a competing product or dataset.
+
+Reporting claimed infringement
+------------------------------
+We respect the intellectual property of others and ask the same in return. If you believe content
+on the Website infringes your copyright, please use the contact channel provided on the Website to
+send a description of the work, where it appears on the Website, your contact information, and a
+statement of your good-faith belief that the use is unauthorized, so we can review it and, where
+appropriate, remove the material.
+
+
+==============================================================================
+3. TRADEMARK NOTICE
+==============================================================================
+Effective June 14, 2026  ·  © 2026 freeFlightDB. All rights reserved.
+
+Our marks
+---------
+“AvHype,” “AvHype Aviation Education,” and the Website's logo and related names and designs are
+trademarks and service marks associated with the Website (the “Marks”), whether or not designated
+with a ™ symbol. The Marks may not be used without prior written permission, including in any
+manner likely to cause confusion or that disparages the Website.
+
+Unless otherwise noted, the Marks are claimed as common-law trademarks and may not be federally
+registered.
+
+FAA and government names
+------------------------
+“FAA” and “Federal Aviation Administration,” and the names of other agencies such as the NTSB and
+TSA, are used only to identify and describe the subject matter for educational purposes. AvHype
+Aviation Education is independent and is not affiliated with, endorsed by, sponsored by, or
+authorized by the FAA or any government agency. The Website does not use the FAA seal, logo, or
+other official insignia, and nothing on the Website should be read as an official government
+communication.
+
+Aircraft and manufacturer names
+-------------------------------
+Aircraft model and manufacturer names that may appear on the Website (for example, in the aircraft
+reference or the on-site hangar) are the trademarks of their respective owners. They are used
+nominatively, to identify and describe the aircraft for education. No affiliation, sponsorship, or
+endorsement is implied.
+
+Third-party products and study materials
+----------------------------------------
+Names of third-party books, courses, apps, or other study products mentioned on the Website are
+the trademarks of their respective owners. Any mention is for the user's convenience and
+information only; it is not an endorsement, and the operator does not host, sell, or include those
+products' content without a license.
+
+Nominative fair use
+-------------------
+Where third-party trademarks are referenced, they are used only as reasonably necessary to
+identify the relevant product, organization, or subject, and not to suggest any relationship with
+the trademark owner. All trademarks remain the property of their respective owners.
+
+==============================================================================
+END OF LEGAL NOTICES
+© 2026 freeFlightDB. All rights reserved.
+==============================================================================
