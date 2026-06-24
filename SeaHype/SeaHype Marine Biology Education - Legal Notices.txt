@@ -1,0 +1,113 @@
+SEAHYPE MARINE BIOLOGY EDUCATION
+Legal Notices, Disclaimers & Credits
+Operator alias: openMarineDB
+
+================================================================
+EDUCATIONAL DISCLAIMER
+================================================================
+SeaHype Marine Biology Education is an independent educational study and
+reference tool. Its lessons are original explanations of well-established
+marine-biology concepts, written for general learners and linked to
+authoritative public sources for further reading.
+
+SeaHype is NOT a substitute for accredited coursework, formal fieldwork, or a
+scientific-diving certification. It is intended to build foundational knowledge
+and curiosity, not to certify competence or qualify anyone for professional or
+in-water activity.
+
+While we strive for accuracy and cite reputable sources, science advances and
+errors are possible. Always verify critical information against primary sources.
+
+================================================================
+NO AFFILIATION
+================================================================
+SeaHype is not affiliated with, endorsed by, or sponsored by NOAA (including the
+NOAA Ocean Service, NOAA Ocean Exploration, NOAA Fisheries, and the NOAA Coral
+Reef Conservation Program), the Smithsonian Institution, MBARI, the Woods Hole
+Oceanographic Institution, the IUCN, NASA, the USGS, the FAO, the World Register
+of Marine Species, the Encyclopedia of Life, the National Geographic Society, or
+any other organization referenced in the app.
+
+These organizations are named only for identification and educational reference.
+All linked materials and source content belong to their respective owners and
+are provided for educational reference only.
+
+================================================================
+SAFETY
+================================================================
+Always follow local laws, regulations, and safety guidance for any beach,
+water, boating, snorkeling, diving, or field activity. Never handle protected,
+venomous, or otherwise dangerous marine life. Observe wildlife from a safe and
+respectful distance, and consult qualified local authorities and certified
+instructors before any in-water activity.
+
+================================================================
+PRIVACY
+================================================================
+SeaHype runs entirely on your device. It does not require an account, and it
+does not collect, transmit, or sell personal data. Your name, learning progress,
+flags, notes, and settings are stored only in your browser's local storage on
+the device you use, under the storage key "seahype_marinebio_v1".
+
+You can permanently erase all of this at any time from the Profile screen by
+choosing "Reset progress." Clearing your browser's site data will also remove it.
+
+Outbound links open third-party websites that have their own privacy practices;
+those sites are outside our control.
+
+================================================================
+COPYRIGHT
+================================================================
+(c) 2026 openMarineDB. The original lesson text, quizzes, structure, code, and
+interface of SeaHype Marine Biology Education are the work of the operator. You
+may use the app freely for personal, non-commercial learning. Source
+organizations retain copyright to their own materials, which are referenced via
+links and are not reproduced here.
+
+================================================================
+TRADEMARKS
+================================================================
+Product, service, and organization names referenced within SeaHype are the
+trademarks or registered trademarks of their respective owners and are used only
+for identification and educational reference. No affiliation or endorsement is
+implied.
+
+================================================================
+ARTWORK
+================================================================
+All sea-life and shell illustrations in SeaHype Marine Biology Education are
+original vector artwork created for this app. They are drawn diagrams, not
+photographs, and are intended as recognizable teaching aids that render at any
+size and work fully offline. Real organisms vary in color and form; consult the
+linked sources and field guides for photographic reference or precise
+identification. No third-party stock photography is bundled with the app.
+
+================================================================
+NO WARRANTY
+================================================================
+SeaHype Marine Biology Education is provided "AS IS," without warranty of any
+kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and non-infringement. The
+operator shall not be liable for any claim, damages, or other liability arising
+from, out of, or in connection with the app or its use.
+
+================================================================
+SUMMARY OF SOURCES REFERENCED
+================================================================
+- NOAA Ocean Service .......... https://oceanservice.noaa.gov/
+- NOAA Ocean Exploration ...... https://oceanexplorer.noaa.gov/
+- NOAA Fisheries .............. https://www.fisheries.noaa.gov/
+- NOAA Coral Reef Program ..... https://coralreef.noaa.gov/
+- NOAA PMEL ................... https://www.pmel.noaa.gov/
+- Smithsonian Ocean ........... https://ocean.si.edu/
+- MBARI ....................... https://www.mbari.org/
+- Woods Hole (WHOI) ........... https://www.whoi.edu/
+- IUCN Red List ............... https://www.iucnredlist.org/
+- World Register of Marine Species ... https://www.marinespecies.org/
+- NASA Earth Observatory ...... https://earthobservatory.nasa.gov/
+- USGS ........................ https://www.usgs.gov/
+- Encyclopedia of Life ........ https://eol.org/
+- National Geographic Education ..... https://education.nationalgeographic.org/
+- FAO Fisheries & Aquaculture ....... https://www.fao.org/fishery/en
+
+End of notices.

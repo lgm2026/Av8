@@ -1,0 +1,2222 @@
+{
+"fish-clownfish": {
+"title": "Clownfish",
+"q": "Amphiprion ocellaris",
+"group": "damselfish"
+},
+"fish-mandarinfish": {
+"title": "Mandarinfish",
+"q": "Synchiropus splendidus",
+"group": "dragonet"
+},
+"fish-parrotfish": {
+"title": "Parrotfish",
+"q": "Scaridae",
+"group": "reef fish"
+},
+"fish-wrasse": {
+"title": "Cleaner wrasse",
+"q": "Labroides dimidiatus",
+"group": "wrasse"
+},
+"fish-angelfish": {
+"title": "Queen angelfish",
+"q": "Holacanthus ciliaris",
+"group": "angelfish"
+},
+"fish-butterflyfish": {
+"title": "Butterflyfish",
+"q": "Chaetodontidae",
+"group": "butterflyfish"
+},
+"fish-surgeonfish": {
+"title": "Surgeonfish",
+"q": "Acanthuridae",
+"group": "surgeonfish"
+},
+"fish-tang": {
+"title": "Blue tang",
+"q": "Paracanthurus hepatus",
+"group": "surgeonfish"
+},
+"fish-triggerfish": {
+"title": "Triggerfish",
+"q": "Balistidae",
+"group": "triggerfish"
+},
+"fish-pufferfish": {
+"title": "Pufferfish",
+"q": "Tetraodontidae",
+"group": "pufferfish"
+},
+"fish-porcupinefish": {
+"title": "Porcupinefish",
+"q": "Diodontidae",
+"group": "pufferfish"
+},
+"fish-boxfish": {
+"title": "Boxfish",
+"q": "Ostraciidae",
+"group": "boxfish"
+},
+"fish-lionfish": {
+"title": "Lionfish",
+"q": "Pterois",
+"group": "scorpionfish"
+},
+"fish-stonefish": {
+"title": "Stonefish",
+"q": "Synanceia",
+"group": "scorpionfish"
+},
+"fish-scorpionfish": {
+"title": "Scorpionfish",
+"q": "Scorpaenidae",
+"group": "scorpionfish"
+},
+"fish-frogfish": {
+"title": "Frogfish",
+"q": "Antennariidae",
+"group": "anglerfish (shallow)"
+},
+"fish-grouper": {
+"title": "Goliath grouper",
+"q": "Epinephelus itajara",
+"group": "grouper"
+},
+"fish-snapper": {
+"title": "Red snapper",
+"q": "Lutjanus campechanus",
+"group": "snapper"
+},
+"fish-grunt": {
+"title": "Grunt",
+"q": "Haemulidae",
+"group": "grunt"
+},
+"fish-goatfish": {
+"title": "Goatfish",
+"q": "Mullidae",
+"group": "goatfish"
+},
+"fish-moorishidol": {
+"title": "Moorish idol",
+"q": "Zanclus cornutus",
+"group": "reef fish"
+},
+"fish-damselfish": {
+"title": "Damselfish",
+"q": "Pomacentridae",
+"group": "damselfish"
+},
+"fish-anthias": {
+"title": "Anthias",
+"q": "Pseudanthias",
+"group": "reef fish"
+},
+"fish-cardinalfish": {
+"title": "Cardinalfish",
+"q": "Apogonidae",
+"group": "cardinalfish"
+},
+"fish-goby": {
+"title": "Goby",
+"q": "Gobiidae",
+"group": "goby"
+},
+"fish-blenny": {
+"title": "Blenny",
+"q": "Blenniidae",
+"group": "blenny"
+},
+"fish-hawkfish": {
+"title": "Hawkfish",
+"q": "Cirrhitidae",
+"group": "hawkfish"
+},
+"fish-pipefish": {
+"title": "Pipefish",
+"q": "Syngnathus",
+"group": "pipefish"
+},
+"fish-seahorse": {
+"title": "Seahorse",
+"q": "Hippocampus",
+"group": "seahorse"
+},
+"fish-razorfish": {
+"title": "Razorfish (shrimpfish)",
+"q": "Aeoliscus strigatus",
+"group": "shrimpfish"
+},
+"fish-filefish": {
+"title": "Filefish",
+"q": "Monacanthidae",
+"group": "filefish"
+},
+"fish-rabbitfish": {
+"title": "Rabbitfish",
+"q": "Siganus",
+"group": "rabbitfish"
+},
+"fish-sweetlips": {
+"title": "Sweetlips",
+"q": "Plectorhinchus",
+"group": "grunt relative"
+},
+"fish-fusilier": {
+"title": "Fusilier",
+"q": "Caesionidae",
+"group": "reef fish"
+},
+"fish-soldierfish": {
+"title": "Soldierfish",
+"q": "Myripristis",
+"group": "squirrelfish relative"
+},
+"fish-squirrelfish": {
+"title": "Squirrelfish",
+"q": "Holocentridae",
+"group": "squirrelfish"
+},
+"fish-bigeye": {
+"title": "Bigeye",
+"q": "Priacanthidae",
+"group": "bigeye"
+},
+"fish-batfish": {
+"title": "Batfish",
+"q": "Platax",
+"group": "spadefish"
+},
+"fish-jackfish": {
+"title": "Giant trevally",
+"q": "Caranx ignobilis",
+"group": "jack"
+},
+"fish-pompano": {
+"title": "Pompano",
+"q": "Trachinotus",
+"group": "jack"
+},
+"fish-remora": {
+"title": "Remora",
+"q": "Echeneidae",
+"group": "suckerfish"
+},
+"fish-cobia": {
+"title": "Cobia",
+"q": "Rachycentron canadum",
+"group": "cobia"
+},
+"fish-mullet": {
+"title": "Mullet",
+"q": "Mugilidae",
+"group": "mullet"
+},
+"fish-mudskipper": {
+"title": "Mudskipper",
+"q": "Periophthalmus",
+"group": "goby (amphibious)"
+},
+"fish-archerfish": {
+"title": "Archerfish",
+"q": "Toxotes",
+"group": "archerfish"
+},
+"fish-flounder": {
+"title": "Flounder",
+"q": "Paralichthys",
+"group": "flatfish"
+},
+"fish-halibut": {
+"title": "Halibut",
+"q": "Hippoglossus",
+"group": "flatfish"
+},
+"fish-sole": {
+"title": "Sole",
+"q": "Soleidae",
+"group": "flatfish"
+},
+"fish-stargazer": {
+"title": "Stargazer",
+"q": "Uranoscopidae",
+"group": "stargazer"
+},
+"fish-toadfish": {
+"title": "Toadfish",
+"q": "Batrachoididae",
+"group": "toadfish"
+},
+"fish-flyingfish": {
+"title": "Flying fish",
+"q": "Exocoetidae",
+"group": "flyingfish"
+},
+"fish-needlefish": {
+"title": "Needlefish",
+"q": "Belonidae",
+"group": "needlefish"
+},
+"fish-halfbeak": {
+"title": "Halfbeak",
+"q": "Hemiramphidae",
+"group": "halfbeak"
+},
+"fish-tarpon": {
+"title": "Tarpon",
+"q": "Megalops atlanticus",
+"group": "tarpon"
+},
+"fish-snook": {
+"title": "Snook",
+"q": "Centropomus",
+"group": "snook"
+},
+"fish-tuna-bluefin": {
+"title": "Bluefin tuna",
+"q": "Thunnus thynnus",
+"group": "tuna"
+},
+"fish-tuna-yellowfin": {
+"title": "Yellowfin tuna",
+"q": "Thunnus albacares",
+"group": "tuna"
+},
+"fish-mackerel": {
+"title": "Atlantic mackerel",
+"q": "Scomber scombrus",
+"group": "mackerel"
+},
+"fish-wahoo": {
+"title": "Wahoo",
+"q": "Acanthocybium solandri",
+"group": "mackerel relative"
+},
+"fish-kingmackerel": {
+"title": "King mackerel",
+"q": "Scomberomorus cavalla",
+"group": "mackerel"
+},
+"fish-bonito": {
+"title": "Bonito",
+"q": "Sarda",
+"group": "tuna relative"
+},
+"fish-mahimahi": {
+"title": "Mahi-mahi",
+"q": "Coryphaena hippurus",
+"group": "dolphinfish"
+},
+"fish-marlin-blue": {
+"title": "Blue marlin",
+"q": "Makaira nigricans",
+"group": "billfish"
+},
+"fish-sailfish": {
+"title": "Sailfish",
+"q": "Istiophorus platypterus",
+"group": "billfish"
+},
+"fish-swordfish": {
+"title": "Swordfish",
+"q": "Xiphias gladius",
+"group": "billfish"
+},
+"fish-bluefish": {
+"title": "Bluefish",
+"q": "Pomatomus saltatrix",
+"group": "bluefish"
+},
+"fish-jackmackerel": {
+"title": "Jack mackerel",
+"q": "Trachurus",
+"group": "jack"
+},
+"fish-opah": {
+"title": "Opah (moonfish)",
+"q": "Lampris guttatus",
+"group": "opah"
+},
+"fish-sunfish-mola": {
+"title": "Ocean sunfish (mola)",
+"q": "Mola mola",
+"group": "sunfish"
+},
+"fish-oarfish": {
+"title": "Oarfish",
+"q": "Regalecus glesne",
+"group": "oarfish"
+},
+"fish-herring": {
+"title": "Atlantic herring",
+"q": "Clupea harengus",
+"group": "herring"
+},
+"fish-sardine": {
+"title": "Sardine",
+"q": "Sardinops sagax",
+"group": "herring relative"
+},
+"fish-anchovy": {
+"title": "Anchovy",
+"q": "Engraulis",
+"group": "anchovy"
+},
+"fish-menhaden": {
+"title": "Menhaden",
+"q": "Brevoortia",
+"group": "herring relative"
+},
+"fish-capelin": {
+"title": "Capelin",
+"q": "Mallotus villosus",
+"group": "smelt"
+},
+"fish-barracuda": {
+"title": "Great barracuda",
+"q": "Sphyraena barracuda",
+"group": "barracuda"
+},
+"fish-anglerfish-deep": {
+"title": "Deep-sea anglerfish",
+"q": "Melanocetus",
+"group": "anglerfish"
+},
+"fish-viperfish": {
+"title": "Viperfish",
+"q": "Chauliodus",
+"group": "dragonfish relative"
+},
+"fish-dragonfish": {
+"title": "Black dragonfish",
+"q": "Idiacanthus",
+"group": "dragonfish"
+},
+"fish-gulper": {
+"title": "Gulper eel (pelican eel)",
+"q": "Eurypharynx pelecanoides",
+"group": "eel"
+},
+"fish-hatchetfish": {
+"title": "Hatchetfish",
+"q": "Argyropelecus",
+"group": "hatchetfish"
+},
+"fish-lanternfish": {
+"title": "Lanternfish",
+"q": "Myctophidae",
+"group": "lanternfish"
+},
+"fish-bristlemouth": {
+"title": "Bristlemouth",
+"q": "Cyclothone",
+"group": "bristlemouth"
+},
+"fish-fangtooth": {
+"title": "Fangtooth",
+"q": "Anoplogaster cornuta",
+"group": "fangtooth"
+},
+"fish-tripod": {
+"title": "Tripodfish",
+"q": "Bathypterois grallator",
+"group": "deep-sea fish"
+},
+"fish-grenadier": {
+"title": "Grenadier (rattail)",
+"q": "Macrouridae",
+"group": "grenadier"
+},
+"fish-blobfish": {
+"title": "Blobfish",
+"q": "Psychrolutes",
+"group": "fathead sculpin"
+},
+"fish-coffinfish": {
+"title": "Coffinfish",
+"q": "Chaunax",
+"group": "deep-sea anglerfish"
+},
+"fish-lizardfish": {
+"title": "Deep-sea lizardfish",
+"q": "Bathysaurus",
+"group": "lizardfish"
+},
+"fish-snailfish-deep": {
+"title": "Hadal snailfish",
+"q": "Pseudoliparis",
+"group": "snailfish"
+},
+"fish-cusk-eel": {
+"title": "Cusk-eel",
+"q": "Ophidiidae",
+"group": "cusk-eel"
+},
+"fish-coelacanth": {
+"title": "Coelacanth",
+"q": "Latimeria chalumnae",
+"group": "lobe-finned fish"
+},
+"fish-chimaera": {
+"title": "Chimaera (ratfish)",
+"q": "Chimaeridae",
+"group": "cartilaginous fish"
+},
+"fish-moray": {
+"title": "Moray eel",
+"q": "Muraenidae",
+"group": "eel"
+},
+"fish-gardeneel": {
+"title": "Garden eel",
+"q": "Heteroconger",
+"group": "eel"
+},
+"fish-conger": {
+"title": "Conger eel",
+"q": "Conger",
+"group": "eel"
+},
+"fish-electriceel": {
+"title": "Electric eel",
+"q": "Electrophorus electricus",
+"group": "knifefish (not a true eel)"
+},
+"fish-freshwater-eel": {
+"title": "American eel",
+"q": "Anguilla rostrata",
+"group": "eel"
+},
+"fish-lamprey": {
+"title": "Sea lamprey",
+"q": "Petromyzon marinus",
+"group": "jawless fish"
+},
+"fish-hagfish": {
+"title": "Hagfish",
+"q": "Myxinidae",
+"group": "jawless fish"
+},
+"fish-sturgeon": {
+"title": "Sturgeon",
+"q": "Acipenser",
+"group": "sturgeon"
+},
+"fish-seadragon": {
+"title": "Leafy seadragon",
+"q": "Phycodurus eques",
+"group": "seahorse relative"
+},
+"shark-greatwhite": {
+"title": "Great white shark",
+"q": "Carcharodon carcharias",
+"group": "shark"
+},
+"shark-tiger": {
+"title": "Tiger shark",
+"q": "Galeocerdo cuvier",
+"group": "shark"
+},
+"shark-bull": {
+"title": "Bull shark",
+"q": "Carcharhinus leucas",
+"group": "shark"
+},
+"shark-hammerhead": {
+"title": "Great hammerhead",
+"q": "Sphyrna mokarran",
+"group": "shark"
+},
+"shark-mako": {
+"title": "Shortfin mako",
+"q": "Isurus oxyrinchus",
+"group": "shark"
+},
+"shark-blue": {
+"title": "Blue shark",
+"q": "Prionace glauca",
+"group": "shark"
+},
+"shark-whaleshark": {
+"title": "Whale shark",
+"q": "Rhincodon typus",
+"group": "shark"
+},
+"shark-basking": {
+"title": "Basking shark",
+"q": "Cetorhinus maximus",
+"group": "shark"
+},
+"shark-megamouth": {
+"title": "Megamouth shark",
+"q": "Megachasma pelagios",
+"group": "shark"
+},
+"shark-thresher": {
+"title": "Thresher shark",
+"q": "Alopias",
+"group": "shark"
+},
+"shark-nurse": {
+"title": "Nurse shark",
+"q": "Ginglymostoma cirratum",
+"group": "shark"
+},
+"shark-lemon": {
+"title": "Lemon shark",
+"q": "Negaprion brevirostris",
+"group": "shark"
+},
+"shark-reef-blacktip": {
+"title": "Blacktip reef shark",
+"q": "Carcharhinus melanopterus",
+"group": "shark"
+},
+"shark-reef-whitetip": {
+"title": "Whitetip reef shark",
+"q": "Triaenodon obesus",
+"group": "shark"
+},
+"shark-sandtiger": {
+"title": "Sand tiger shark",
+"q": "Carcharias taurus",
+"group": "shark"
+},
+"shark-goblin": {
+"title": "Goblin shark",
+"q": "Mitsukurina owstoni",
+"group": "shark"
+},
+"shark-frilled": {
+"title": "Frilled shark",
+"q": "Chlamydoselachus anguineus",
+"group": "shark"
+},
+"shark-cookiecutter": {
+"title": "Cookiecutter shark",
+"q": "Isistius brasiliensis",
+"group": "shark"
+},
+"shark-greenland": {
+"title": "Greenland shark",
+"q": "Somniosus microcephalus",
+"group": "shark"
+},
+"shark-wobbegong": {
+"title": "Wobbegong",
+"q": "Orectolobus",
+"group": "carpet shark"
+},
+"shark-angel": {
+"title": "Angelshark",
+"q": "Squatina",
+"group": "shark"
+},
+"shark-saw": {
+"title": "Sawshark",
+"q": "Pristiophorus",
+"group": "shark"
+},
+"shark-dogfish": {
+"title": "Spiny dogfish",
+"q": "Squalus acanthias",
+"group": "shark"
+},
+"shark-catshark": {
+"title": "Catshark",
+"q": "Scyliorhinidae",
+"group": "shark"
+},
+"shark-port-jackson": {
+"title": "Port Jackson shark",
+"q": "Heterodontus portusjacksoni",
+"group": "shark"
+},
+"shark-zebra": {
+"title": "Zebra (leopard) shark",
+"q": "Stegostoma tigrinum",
+"group": "shark"
+},
+"shark-epaulette": {
+"title": "Epaulette shark",
+"q": "Hemiscyllium ocellatum",
+"group": "shark"
+},
+"shark-silky": {
+"title": "Silky shark",
+"q": "Carcharhinus falciformis",
+"group": "shark"
+},
+"shark-oceanic-whitetip": {
+"title": "Oceanic whitetip shark",
+"q": "Carcharhinus longimanus",
+"group": "shark"
+},
+"ray-manta": {
+"title": "Giant manta ray",
+"q": "Mobula birostris",
+"group": "ray"
+},
+"ray-devil": {
+"title": "Devil ray (mobula)",
+"q": "Mobula",
+"group": "ray"
+},
+"ray-eagle": {
+"title": "Spotted eagle ray",
+"q": "Aetobatus narinari",
+"group": "ray"
+},
+"ray-stingray-southern": {
+"title": "Southern stingray",
+"q": "Hypanus americanus",
+"group": "ray"
+},
+"ray-bluespotted": {
+"title": "Blue-spotted ribbontail ray",
+"q": "Taeniura lymma",
+"group": "ray"
+},
+"ray-electric": {
+"title": "Electric ray (torpedo)",
+"q": "Torpedo",
+"group": "ray"
+},
+"ray-cownose": {
+"title": "Cownose ray",
+"q": "Rhinoptera bonasus",
+"group": "ray"
+},
+"ray-sawfish": {
+"title": "Sawfish",
+"q": "Pristis",
+"group": "ray"
+},
+"ray-guitarfish": {
+"title": "Guitarfish",
+"q": "Rhinobatos",
+"group": "ray"
+},
+"ray-skate": {
+"title": "Skate",
+"q": "Rajidae",
+"group": "ray"
+},
+"ray-manta-reef": {
+"title": "Reef manta ray",
+"q": "Mobula alfredi",
+"group": "ray"
+},
+"ray-torpedo-marbled": {
+"title": "Marbled electric ray",
+"q": "Torpedo marmorata",
+"group": "ray"
+},
+"mammal-bluewhale": {
+"title": "Blue whale",
+"q": "Balaenoptera musculus",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-finwhale": {
+"title": "Fin whale",
+"q": "Balaenoptera physalus",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-humpback": {
+"title": "Humpback whale",
+"q": "Megaptera novaeangliae",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-graywhale": {
+"title": "Gray whale",
+"q": "Eschrichtius robustus",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-rightwhale": {
+"title": "North Atlantic right whale",
+"q": "Eubalaena glacialis",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-bowhead": {
+"title": "Bowhead whale",
+"q": "Balaena mysticetus",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-minke": {
+"title": "Minke whale",
+"q": "Balaenoptera acutorostrata",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-seiwhale": {
+"title": "Sei whale",
+"q": "Balaenoptera borealis",
+"group": "baleen whale (marine mammal)"
+},
+"mammal-spermwhale": {
+"title": "Sperm whale",
+"q": "Physeter macrocephalus",
+"group": "toothed whale (marine mammal)"
+},
+"mammal-pygmysperm": {
+"title": "Pygmy sperm whale",
+"q": "Kogia breviceps",
+"group": "toothed whale (marine mammal)"
+},
+"mammal-beaked": {
+"title": "Cuvier's beaked whale",
+"q": "Ziphius cavirostris",
+"group": "toothed whale (marine mammal)"
+},
+"mammal-narwhal": {
+"title": "Narwhal",
+"q": "Monodon monoceros",
+"group": "toothed whale (marine mammal)"
+},
+"mammal-beluga": {
+"title": "Beluga whale",
+"q": "Delphinapterus leucas",
+"group": "toothed whale (marine mammal)"
+},
+"mammal-orca": {
+"title": "Orca (killer whale)",
+"q": "Orcinus orca",
+"group": "dolphin (marine mammal)"
+},
+"mammal-bottlenose": {
+"title": "Bottlenose dolphin",
+"q": "Tursiops truncatus",
+"group": "dolphin (marine mammal)"
+},
+"mammal-common-dolphin": {
+"title": "Common dolphin",
+"q": "Delphinus delphis",
+"group": "dolphin (marine mammal)"
+},
+"mammal-spinner": {
+"title": "Spinner dolphin",
+"q": "Stenella longirostris",
+"group": "dolphin (marine mammal)"
+},
+"mammal-spotted-dolphin": {
+"title": "Atlantic spotted dolphin",
+"q": "Stenella frontalis",
+"group": "dolphin (marine mammal)"
+},
+"mammal-risso": {
+"title": "Risso's dolphin",
+"q": "Grampus griseus",
+"group": "dolphin (marine mammal)"
+},
+"mammal-pilot": {
+"title": "Pilot whale",
+"q": "Globicephala",
+"group": "dolphin (marine mammal)"
+},
+"mammal-falsekiller": {
+"title": "False killer whale",
+"q": "Pseudorca crassidens",
+"group": "dolphin (marine mammal)"
+},
+"mammal-harborporpoise": {
+"title": "Harbor porpoise",
+"q": "Phocoena phocoena",
+"group": "porpoise (marine mammal)"
+},
+"mammal-dalls": {
+"title": "Dall's porpoise",
+"q": "Phocoenoides dalli",
+"group": "porpoise (marine mammal)"
+},
+"mammal-vaquita": {
+"title": "Vaquita",
+"q": "Phocoena sinus",
+"group": "porpoise (marine mammal)"
+},
+"mammal-amazon-river": {
+"title": "River dolphin",
+"q": "Inia geoffrensis",
+"group": "dolphin (marine mammal)"
+},
+"mammal-harborseal": {
+"title": "Harbor seal",
+"q": "Phoca vitulina",
+"group": "true seal (marine mammal)"
+},
+"mammal-graysealatl": {
+"title": "Gray seal",
+"q": "Halichoerus grypus",
+"group": "true seal (marine mammal)"
+},
+"mammal-elephantseal": {
+"title": "Elephant seal",
+"q": "Mirounga",
+"group": "true seal (marine mammal)"
+},
+"mammal-leopardseal": {
+"title": "Leopard seal",
+"q": "Hydrurga leptonyx",
+"group": "true seal (marine mammal)"
+},
+"mammal-weddell": {
+"title": "Weddell seal",
+"q": "Leptonychotes weddellii",
+"group": "true seal (marine mammal)"
+},
+"mammal-crabeater": {
+"title": "Crabeater seal",
+"q": "Lobodon carcinophaga",
+"group": "true seal (marine mammal)"
+},
+"mammal-ross": {
+"title": "Ross seal",
+"q": "Ommatophoca rossii",
+"group": "true seal (marine mammal)"
+},
+"mammal-harp": {
+"title": "Harp seal",
+"q": "Pagophilus groenlandicus",
+"group": "true seal (marine mammal)"
+},
+"mammal-ringed": {
+"title": "Ringed seal",
+"q": "Pusa hispida",
+"group": "true seal (marine mammal)"
+},
+"mammal-monkseal": {
+"title": "Hawaiian monk seal",
+"q": "Neomonachus schauinslandi",
+"group": "true seal (marine mammal)"
+},
+"mammal-bearded": {
+"title": "Bearded seal",
+"q": "Erignathus barbatus",
+"group": "true seal (marine mammal)"
+},
+"mammal-californiasealion": {
+"title": "California sea lion",
+"q": "Zalophus californianus",
+"group": "sea lion (marine mammal)"
+},
+"mammal-stellersealion": {
+"title": "Steller sea lion",
+"q": "Eumetopias jubatus",
+"group": "sea lion (marine mammal)"
+},
+"mammal-fursealnorth": {
+"title": "Northern fur seal",
+"q": "Callorhinus ursinus",
+"group": "fur seal (marine mammal)"
+},
+"mammal-walrus": {
+"title": "Walrus",
+"q": "Odobenus rosmarus",
+"group": "walrus (marine mammal)"
+},
+"mammal-seaotter": {
+"title": "Sea otter",
+"q": "Enhydra lutris",
+"group": "sea otter (marine mammal)"
+},
+"mammal-manatee": {
+"title": "Manatee",
+"q": "Trichechus",
+"group": "sirenian (marine mammal)"
+},
+"mammal-dugong": {
+"title": "Dugong",
+"q": "Dugong dugon",
+"group": "sirenian (marine mammal)"
+},
+"mammal-polarbear": {
+"title": "Polar bear",
+"q": "Ursus maritimus",
+"group": "marine mammal (bear)"
+},
+"reptile-greenturtle": {
+"title": "Green sea turtle",
+"q": "Chelonia mydas",
+"group": "sea turtle (reptile)"
+},
+"reptile-loggerhead": {
+"title": "Loggerhead turtle",
+"q": "Caretta caretta",
+"group": "sea turtle (reptile)"
+},
+"reptile-leatherback": {
+"title": "Leatherback turtle",
+"q": "Dermochelys coriacea",
+"group": "sea turtle (reptile)"
+},
+"reptile-hawksbill": {
+"title": "Hawksbill turtle",
+"q": "Eretmochelys imbricata",
+"group": "sea turtle (reptile)"
+},
+"reptile-oliveridley": {
+"title": "Olive ridley turtle",
+"q": "Lepidochelys olivacea",
+"group": "sea turtle (reptile)"
+},
+"reptile-kempsridley": {
+"title": "Kemp's ridley turtle",
+"q": "Lepidochelys kempii",
+"group": "sea turtle (reptile)"
+},
+"reptile-flatback": {
+"title": "Flatback turtle",
+"q": "Natator depressus",
+"group": "sea turtle (reptile)"
+},
+"reptile-seasnake": {
+"title": "Sea snake",
+"q": "Hydrophis",
+"group": "marine reptile (snake)"
+},
+"reptile-seakrait": {
+"title": "Sea krait",
+"q": "Laticauda",
+"group": "marine reptile (snake)"
+},
+"reptile-marineiguana": {
+"title": "Marine iguana",
+"q": "Amblyrhynchus cristatus",
+"group": "marine reptile (lizard)"
+},
+"reptile-saltwatercroc": {
+"title": "Saltwater crocodile",
+"q": "Crocodylus porosus",
+"group": "marine reptile (crocodile)"
+},
+"bird-wanderingalbatross": {
+"title": "Wandering albatross",
+"q": "Diomedea exulans",
+"group": "seabird"
+},
+"bird-laysanalbatross": {
+"title": "Laysan albatross",
+"q": "Phoebastria immutabilis",
+"group": "seabird"
+},
+"bird-emperorpenguin": {
+"title": "Emperor penguin",
+"q": "Aptenodytes forsteri",
+"group": "seabird (penguin)"
+},
+"bird-kingpenguin": {
+"title": "King penguin",
+"q": "Aptenodytes patagonicus",
+"group": "seabird (penguin)"
+},
+"bird-adeliepenguin": {
+"title": "Adélie penguin",
+"q": "Pygoscelis adeliae",
+"group": "seabird (penguin)"
+},
+"bird-gentoo": {
+"title": "Gentoo penguin",
+"q": "Pygoscelis papua",
+"group": "seabird (penguin)"
+},
+"bird-galapagospenguin": {
+"title": "Galápagos penguin",
+"q": "Spheniscus mendiculus",
+"group": "seabird (penguin)"
+},
+"bird-littleblue": {
+"title": "Little blue penguin",
+"q": "Eudyptula minor",
+"group": "seabird (penguin)"
+},
+"bird-atlanticpuffin": {
+"title": "Atlantic puffin",
+"q": "Fratercula arctica",
+"group": "seabird (auk)"
+},
+"bird-commonmurre": {
+"title": "Common murre",
+"q": "Uria aalge",
+"group": "seabird (auk)"
+},
+"bird-razorbill": {
+"title": "Razorbill",
+"q": "Alca torda",
+"group": "seabird (auk)"
+},
+"bird-northerngannet": {
+"title": "Northern gannet",
+"q": "Morus bassanus",
+"group": "seabird"
+},
+"bird-bluefoocedbooby": {
+"title": "Blue-footed booby",
+"q": "Sula nebouxii",
+"group": "seabird"
+},
+"bird-brownpelican": {
+"title": "Brown pelican",
+"q": "Pelecanus occidentalis",
+"group": "seabird"
+},
+"bird-frigatebird": {
+"title": "Magnificent frigatebird",
+"q": "Fregata magnificens",
+"group": "seabird"
+},
+"bird-tropicbird": {
+"title": "Red-tailed tropicbird",
+"q": "Phaethon rubricauda",
+"group": "seabird"
+},
+"bird-arctictern": {
+"title": "Arctic tern",
+"q": "Sterna paradisaea",
+"group": "seabird (tern)"
+},
+"bird-sootytern": {
+"title": "Sooty tern",
+"q": "Onychoprion fuscatus",
+"group": "seabird (tern)"
+},
+"bird-commontern": {
+"title": "Common tern",
+"q": "Sterna hirundo",
+"group": "seabird (tern)"
+},
+"bird-herringgull": {
+"title": "Herring gull",
+"q": "Larus argentatus",
+"group": "seabird (gull)"
+},
+"bird-kittiwake": {
+"title": "Black-legged kittiwake",
+"q": "Rissa tridactyla",
+"group": "seabird (gull)"
+},
+"bird-cormorant": {
+"title": "Cormorant",
+"q": "Phalacrocorax",
+"group": "seabird"
+},
+"bird-shag": {
+"title": "European shag",
+"q": "Gulosus aristotelis",
+"group": "seabird (cormorant)"
+},
+"bird-skua": {
+"title": "Great skua",
+"q": "Stercorarius skua",
+"group": "seabird"
+},
+"bird-petrel-storm": {
+"title": "Storm petrel",
+"q": "Hydrobates",
+"group": "seabird (petrel)"
+},
+"bird-shearwater": {
+"title": "Shearwater",
+"q": "Puffinus",
+"group": "seabird (petrel)"
+},
+"bird-fulmar": {
+"title": "Northern fulmar",
+"q": "Fulmarus glacialis",
+"group": "seabird (petrel)"
+},
+"bird-pelagic-auklet": {
+"title": "Auklet",
+"q": "Aethia",
+"group": "seabird (auk)"
+},
+"bird-oystercatcher": {
+"title": "Oystercatcher",
+"q": "Haematopus",
+"group": "shorebird (seabird)"
+},
+"cnid-moonjelly": {
+"title": "Moon jelly",
+"q": "Aurelia aurita",
+"group": "cnidarian (jellyfish)"
+},
+"cnid-lionsmane": {
+"title": "Lion's mane jelly",
+"q": "Cyanea capillata",
+"group": "cnidarian (jellyfish)"
+},
+"cnid-boxjelly": {
+"title": "Box jellyfish",
+"q": "Chironex fleckeri",
+"group": "cnidarian (jellyfish)"
+},
+"cnid-portuguese": {
+"title": "Portuguese man o' war",
+"q": "Physalia physalis",
+"group": "cnidarian (siphonophore)"
+},
+"cnid-seawasp": {
+"title": "Irukandji jellyfish",
+"q": "Carukia barnesi",
+"group": "cnidarian (jellyfish)"
+},
+"cnid-cannonball": {
+"title": "Cannonball jelly",
+"q": "Stomolophus meleagris",
+"group": "cnidarian (jellyfish)"
+},
+"cnid-seaanemone": {
+"title": "Sea anemone",
+"q": "Actiniaria",
+"group": "cnidarian (anemone)"
+},
+"cnid-tubeanemone": {
+"title": "Tube anemone",
+"q": "Cerianthus",
+"group": "cnidarian (anemone)"
+},
+"cnid-staghorn": {
+"title": "Staghorn coral",
+"q": "Acropora cervicornis",
+"group": "cnidarian (stony coral)"
+},
+"cnid-elkhorn": {
+"title": "Elkhorn coral",
+"q": "Acropora palmata",
+"group": "cnidarian (stony coral)"
+},
+"cnid-braincoral": {
+"title": "Brain coral",
+"q": "Diploria",
+"group": "cnidarian (stony coral)"
+},
+"cnid-firecoral": {
+"title": "Fire coral",
+"q": "Millepora",
+"group": "cnidarian (hydrozoan)"
+},
+"cnid-softcoral": {
+"title": "Soft coral",
+"q": "Alcyonium",
+"group": "cnidarian (soft coral)"
+},
+"cnid-seafan": {
+"title": "Sea fan (gorgonian)",
+"q": "Gorgonia",
+"group": "cnidarian (soft coral)"
+},
+"cnid-seapen": {
+"title": "Sea pen",
+"q": "Pennatula",
+"group": "cnidarian (octocoral)"
+},
+"cnid-blackcoral": {
+"title": "Black coral",
+"q": "Antipatharia",
+"group": "cnidarian (coral)"
+},
+"cnid-hydroid": {
+"title": "Hydroid",
+"q": "Aglaophenia",
+"group": "cnidarian (hydrozoan)"
+},
+"cnid-bluebottle-bythewind": {
+"title": "By-the-wind sailor",
+"q": "Velella velella",
+"group": "cnidarian (hydrozoan)"
+},
+"cnid-combjelly": {
+"title": "Comb jelly (ctenophore)",
+"q": "Ctenophora",
+"group": "comb jelly"
+},
+"ceph-giantpacific": {
+"title": "Giant Pacific octopus",
+"q": "Enteroctopus dofleini",
+"group": "mollusc (cephalopod)"
+},
+"ceph-common": {
+"title": "Common octopus",
+"q": "Octopus vulgaris",
+"group": "mollusc (cephalopod)"
+},
+"ceph-bluering": {
+"title": "Blue-ringed octopus",
+"q": "Hapalochlaena",
+"group": "mollusc (cephalopod)"
+},
+"ceph-mimic": {
+"title": "Mimic octopus",
+"q": "Thaumoctopus mimicus",
+"group": "mollusc (cephalopod)"
+},
+"ceph-dumbo": {
+"title": "Dumbo octopus",
+"q": "Grimpoteuthis",
+"group": "mollusc (cephalopod)"
+},
+"ceph-coconut": {
+"title": "Coconut octopus",
+"q": "Amphioctopus marginatus",
+"group": "mollusc (cephalopod)"
+},
+"ceph-giantsquid": {
+"title": "Giant squid",
+"q": "Architeuthis dux",
+"group": "mollusc (cephalopod)"
+},
+"ceph-colossal": {
+"title": "Colossal squid",
+"q": "Mesonychoteuthis hamiltoni",
+"group": "mollusc (cephalopod)"
+},
+"ceph-humboldt": {
+"title": "Humboldt squid",
+"q": "Dosidicus gigas",
+"group": "mollusc (cephalopod)"
+},
+"ceph-vampire": {
+"title": "Vampire squid",
+"q": "Vampyroteuthis infernalis",
+"group": "mollusc (cephalopod)"
+},
+"ceph-bobtail": {
+"title": "Bobtail squid",
+"q": "Euprymna",
+"group": "mollusc (cephalopod)"
+},
+"ceph-reefsquid": {
+"title": "Caribbean reef squid",
+"q": "Sepioteuthis sepioidea",
+"group": "mollusc (cephalopod)"
+},
+"ceph-cuttlefish": {
+"title": "Cuttlefish",
+"q": "Sepia",
+"group": "mollusc (cephalopod)"
+},
+"ceph-flamboyant": {
+"title": "Flamboyant cuttlefish",
+"q": "Metasepia pfefferi",
+"group": "mollusc (cephalopod)"
+},
+"ceph-nautilus": {
+"title": "Chambered nautilus",
+"q": "Nautilus pompilius",
+"group": "mollusc (cephalopod)"
+},
+"ceph-paper-nautilus": {
+"title": "Argonaut (paper nautilus)",
+"q": "Argonauta",
+"group": "mollusc (cephalopod)"
+},
+"gast-conch": {
+"title": "Queen conch",
+"q": "Aliger gigas",
+"group": "mollusc (gastropod)"
+},
+"gast-coneshell": {
+"title": "Cone snail",
+"q": "Conus",
+"group": "mollusc (gastropod)"
+},
+"gast-cowrie": {
+"title": "Cowrie",
+"q": "Cypraea",
+"group": "mollusc (gastropod)"
+},
+"gast-abalone": {
+"title": "Abalone",
+"q": "Haliotis",
+"group": "mollusc (gastropod)"
+},
+"gast-limpet": {
+"title": "Limpet",
+"q": "Patella",
+"group": "mollusc (gastropod)"
+},
+"gast-periwinkle": {
+"title": "Periwinkle",
+"q": "Littorina",
+"group": "mollusc (gastropod)"
+},
+"gast-whelk": {
+"title": "Whelk",
+"q": "Buccinum",
+"group": "mollusc (gastropod)"
+},
+"gast-murex": {
+"title": "Murex",
+"q": "Murex",
+"group": "mollusc (gastropod)"
+},
+"gast-tritontrumpet": {
+"title": "Triton's trumpet",
+"q": "Charonia tritonis",
+"group": "mollusc (gastropod)"
+},
+"gast-nudibranch": {
+"title": "Nudibranch (sea slug)",
+"q": "Nudibranchia",
+"group": "mollusc (sea slug)"
+},
+"gast-spanishdancer": {
+"title": "Spanish dancer",
+"q": "Hexabranchus sanguineus",
+"group": "mollusc (sea slug)"
+},
+"gast-seahare": {
+"title": "Sea hare",
+"q": "Aplysia",
+"group": "mollusc (sea slug)"
+},
+"gast-seabutterfly": {
+"title": "Sea butterfly (pteropod)",
+"q": "Limacina",
+"group": "mollusc (sea slug)"
+},
+"gast-blueglaucus": {
+"title": "Blue dragon (glaucus)",
+"q": "Glaucus atlanticus",
+"group": "mollusc (sea slug)"
+},
+"gast-seaslug-lettuce": {
+"title": "Lettuce sea slug",
+"q": "Elysia crispata",
+"group": "mollusc (sea slug)"
+},
+"biv-giantclam": {
+"title": "Giant clam",
+"q": "Tridacna gigas",
+"group": "mollusc (bivalve)"
+},
+"biv-scallop": {
+"title": "Scallop",
+"q": "Pecten",
+"group": "mollusc (bivalve)"
+},
+"biv-oyster": {
+"title": "Oyster",
+"q": "Ostreidae",
+"group": "mollusc (bivalve)"
+},
+"biv-mussel": {
+"title": "Blue mussel",
+"q": "Mytilus edulis",
+"group": "mollusc (bivalve)"
+},
+"biv-cockle": {
+"title": "Cockle",
+"q": "Cerastoderma",
+"group": "mollusc (bivalve)"
+},
+"biv-razor": {
+"title": "Razor clam",
+"q": "Ensis",
+"group": "mollusc (bivalve)"
+},
+"biv-shipworm": {
+"title": "Shipworm",
+"q": "Teredo",
+"group": "mollusc (bivalve)"
+},
+"biv-pen-shell": {
+"title": "Pen shell",
+"q": "Pinna",
+"group": "mollusc (bivalve)"
+},
+"biv-quahog": {
+"title": "Ocean quahog",
+"q": "Arctica islandica",
+"group": "mollusc (bivalve)"
+},
+"biv-angelwing": {
+"title": "Angel wing clam",
+"q": "Cyrtopleura costata",
+"group": "mollusc (bivalve)"
+},
+"moll-chiton": {
+"title": "Chiton",
+"q": "Polyplacophora",
+"group": "mollusc (chiton)"
+},
+"crus-hermitcrab": {
+"title": "Hermit crab",
+"q": "Paguroidea",
+"group": "crustacean"
+},
+"crus-fiddlercrab": {
+"title": "Fiddler crab",
+"q": "Uca",
+"group": "crustacean"
+},
+"crus-ghostcrab": {
+"title": "Ghost crab",
+"q": "Ocypode",
+"group": "crustacean"
+},
+"crus-bluecrab": {
+"title": "Blue crab",
+"q": "Callinectes sapidus",
+"group": "crustacean"
+},
+"crus-dungeness": {
+"title": "Dungeness crab",
+"q": "Metacarcinus magister",
+"group": "crustacean"
+},
+"crus-kingcrab": {
+"title": "King crab",
+"q": "Paralithodes",
+"group": "crustacean"
+},
+"crus-snowcrab": {
+"title": "Snow crab",
+"q": "Chionoecetes opilio",
+"group": "crustacean"
+},
+"crus-spidercrab": {
+"title": "Japanese spider crab",
+"q": "Macrocheira kaempferi",
+"group": "crustacean"
+},
+"crus-coconutcrab": {
+"title": "Coconut crab",
+"q": "Birgus latro",
+"group": "crustacean (land)"
+},
+"crus-porcelaincrab": {
+"title": "Porcelain crab",
+"q": "Porcellanidae",
+"group": "crustacean"
+},
+"crus-decoratorcrab": {
+"title": "Decorator crab",
+"q": "Majidae",
+"group": "crustacean"
+},
+"crus-spinylobster": {
+"title": "Spiny lobster",
+"q": "Panulirus",
+"group": "crustacean"
+},
+"crus-americanlobster": {
+"title": "American lobster",
+"q": "Homarus americanus",
+"group": "crustacean"
+},
+"crus-slipperlobster": {
+"title": "Slipper lobster",
+"q": "Scyllaridae",
+"group": "crustacean"
+},
+"crus-mantisshrimp": {
+"title": "Mantis shrimp",
+"q": "Stomatopoda",
+"group": "crustacean"
+},
+"crus-pistolshrimp": {
+"title": "Pistol shrimp",
+"q": "Alpheus",
+"group": "crustacean"
+},
+"crus-cleanershrimp": {
+"title": "Cleaner shrimp",
+"q": "Lysmata amboinensis",
+"group": "crustacean"
+},
+"crus-krill": {
+"title": "Antarctic krill",
+"q": "Euphausia superba",
+"group": "crustacean (krill)"
+},
+"crus-copepod": {
+"title": "Copepod",
+"q": "Copepoda",
+"group": "crustacean (plankton)"
+},
+"crus-amphipod": {
+"title": "Amphipod",
+"q": "Amphipoda",
+"group": "crustacean"
+},
+"crus-isopod-giant": {
+"title": "Giant isopod",
+"q": "Bathynomus",
+"group": "crustacean"
+},
+"crus-barnacle": {
+"title": "Barnacle",
+"q": "Balanus",
+"group": "crustacean"
+},
+"crus-goosebarnacle": {
+"title": "Goose barnacle",
+"q": "Lepas",
+"group": "crustacean"
+},
+"crus-horseshoecrab": {
+"title": "Horseshoe crab",
+"q": "Limulus polyphemus",
+"group": "chelicerate (not a true crab)"
+},
+"crus-sandhopper": {
+"title": "Sand hopper",
+"q": "Talitrus",
+"group": "crustacean"
+},
+"echi-seastar": {
+"title": "Sea star (starfish)",
+"q": "Asterias",
+"group": "echinoderm"
+},
+"echi-crownofthorns": {
+"title": "Crown-of-thorns starfish",
+"q": "Acanthaster planci",
+"group": "echinoderm"
+},
+"echi-sunflowerstar": {
+"title": "Sunflower star",
+"q": "Pycnopodia helianthoides",
+"group": "echinoderm"
+},
+"echi-brittlestar": {
+"title": "Brittle star",
+"q": "Ophiuroidea",
+"group": "echinoderm"
+},
+"echi-basketstar": {
+"title": "Basket star",
+"q": "Gorgonocephalus",
+"group": "echinoderm"
+},
+"echi-seaurchin": {
+"title": "Sea urchin",
+"q": "Echinoidea",
+"group": "echinoderm"
+},
+"echi-pencilurchin": {
+"title": "Slate pencil urchin",
+"q": "Heterocentrotus mamillatus",
+"group": "echinoderm"
+},
+"echi-sanddollar": {
+"title": "Sand dollar",
+"q": "Clypeasteroida",
+"group": "echinoderm"
+},
+"echi-seacucumber": {
+"title": "Sea cucumber",
+"q": "Holothuroidea",
+"group": "echinoderm"
+},
+"echi-featherstar": {
+"title": "Feather star (crinoid)",
+"q": "Crinoidea",
+"group": "echinoderm"
+},
+"echi-seapig": {
+"title": "Sea pig",
+"q": "Scotoplanes",
+"group": "echinoderm"
+},
+"echi-seaapple": {
+"title": "Sea apple",
+"q": "Pseudocolochirus",
+"group": "echinoderm"
+},
+"worm-bristle": {
+"title": "Bristle worm",
+"q": "Polychaeta",
+"group": "marine worm (polychaete)"
+},
+"worm-christmastree": {
+"title": "Christmas tree worm",
+"q": "Spirobranchus giganteus",
+"group": "marine worm (polychaete)"
+},
+"worm-featherduster": {
+"title": "Feather duster worm",
+"q": "Sabellidae",
+"group": "marine worm (polychaete)"
+},
+"worm-tubeworm-vent": {
+"title": "Giant tube worm",
+"q": "Riftia pachyptila",
+"group": "marine worm (vent)"
+},
+"worm-osedax": {
+"title": "Bone-eating worm (Osedax)",
+"q": "Osedax",
+"group": "marine worm"
+},
+"worm-flatworm": {
+"title": "Marine flatworm",
+"q": "Polycladida",
+"group": "marine worm (flatworm)"
+},
+"worm-ribbonworm": {
+"title": "Ribbon worm (nemertean)",
+"q": "Nemertea",
+"group": "marine worm"
+},
+"worm-arrowworm": {
+"title": "Arrow worm",
+"q": "Chaetognatha",
+"group": "marine worm (chaetognath)"
+},
+"worm-peanutworm": {
+"title": "Peanut worm (sipunculan)",
+"q": "Sipuncula",
+"group": "marine worm"
+},
+"worm-innkeeper": {
+"title": "Innkeeper worm (echiuran)",
+"q": "Urechis",
+"group": "marine worm"
+},
+"worm-palolo": {
+"title": "Palolo worm",
+"q": "Palola",
+"group": "marine worm (polychaete)"
+},
+"spng-barrelsponge": {
+"title": "Giant barrel sponge",
+"q": "Xestospongia muta",
+"group": "sponge"
+},
+"spng-glasssponge": {
+"title": "Glass sponge",
+"q": "Hexactinellida",
+"group": "sponge"
+},
+"spng-venusflower": {
+"title": "Venus' flower basket",
+"q": "Euplectella aspergillum",
+"group": "sponge"
+},
+"spng-encrusting": {
+"title": "Encrusting sponge",
+"q": "Demospongiae",
+"group": "sponge"
+},
+"tuni-seasquirt": {
+"title": "Sea squirt",
+"q": "Ascidiacea",
+"group": "tunicate"
+},
+"tuni-salp": {
+"title": "Salp",
+"q": "Salpidae",
+"group": "tunicate (salp)"
+},
+"tuni-pyrosome": {
+"title": "Pyrosome",
+"q": "Pyrosoma",
+"group": "tunicate (colony)"
+},
+"tuni-lightbulb": {
+"title": "Light bulb tunicate",
+"q": "Clavelina lepadiformis",
+"group": "tunicate"
+},
+"plank-diatom": {
+"title": "Diatom",
+"q": "Bacillariophyta",
+"group": "phytoplankton (diatom)"
+},
+"plank-dinoflagellate": {
+"title": "Dinoflagellate",
+"q": "Dinoflagellata",
+"group": "phytoplankton (dinoflagellate)"
+},
+"plank-coccolithophore": {
+"title": "Coccolithophore",
+"q": "Coccolithophyceae",
+"group": "phytoplankton"
+},
+"plank-cyanobacteria": {
+"title": "Prochlorococcus",
+"q": "Prochlorococcus",
+"group": "cyanobacteria (microbe)"
+},
+"plank-foram": {
+"title": "Foraminifera",
+"q": "Foraminifera",
+"group": "plankton (protist)"
+},
+"plank-radiolaria": {
+"title": "Radiolaria",
+"q": "Radiolaria",
+"group": "plankton (protist)"
+},
+"plank-noctiluca": {
+"title": "Sea sparkle (Noctiluca)",
+"q": "Noctiluca scintillans",
+"group": "plankton (dinoflagellate)"
+},
+"plank-trichodesmium": {
+"title": "Trichodesmium",
+"q": "Trichodesmium",
+"group": "cyanobacteria (microbe)"
+},
+"microbe-virus": {
+"title": "Marine virus",
+"q": "Marine virus",
+"group": "marine microbe (virus)"
+},
+"microbe-archaea": {
+"title": "Marine archaea",
+"q": "Marine archaea",
+"group": "marine microbe (archaea)"
+},
+"microbe-bacterioplankton": {
+"title": "Bacterioplankton",
+"q": "Bacterioplankton",
+"group": "marine microbe (bacteria)"
+},
+"plank-larva": {
+"title": "Planktonic larva",
+"q": "Planktonic larva",
+"group": "plankton (animal larva)"
+},
+"algae-giantkelp": {
+"title": "Giant kelp",
+"q": "Macrocystis pyrifera",
+"group": "brown alga (kelp)"
+},
+"algae-bullkelp": {
+"title": "Bull kelp",
+"q": "Nereocystis luetkeana",
+"group": "brown alga (kelp)"
+},
+"algae-sargassum": {
+"title": "Sargassum",
+"q": "Sargassum",
+"group": "brown alga (sargassum)"
+},
+"algae-sealettuce": {
+"title": "Sea lettuce (Ulva)",
+"q": "Ulva",
+"group": "green alga"
+},
+"algae-coralline": {
+"title": "Coralline algae",
+"q": "Corallinales",
+"group": "red alga (calcified)"
+},
+"algae-nori": {
+"title": "Nori (Porphyra)",
+"q": "Porphyra",
+"group": "red alga"
+},
+"algae-kombu": {
+"title": "Kombu",
+"q": "Saccharina",
+"group": "brown alga (kelp)"
+},
+"algae-caulerpa": {
+"title": "Caulerpa",
+"q": "Caulerpa",
+"group": "green alga"
+},
+"algae-halimeda": {
+"title": "Halimeda",
+"q": "Halimeda",
+"group": "green alga (calcified)"
+},
+"algae-irishmoss": {
+"title": "Irish moss (Chondrus)",
+"q": "Chondrus crispus",
+"group": "red alga"
+},
+"plant-eelgrass": {
+"title": "Eelgrass",
+"q": "Zostera marina",
+"group": "seagrass (flowering plant)"
+},
+"plant-turtlegrass": {
+"title": "Turtle grass",
+"q": "Thalassia testudinum",
+"group": "seagrass (flowering plant)"
+},
+"plant-posidonia": {
+"title": "Neptune grass (Posidonia)",
+"q": "Posidonia oceanica",
+"group": "seagrass (flowering plant)"
+},
+"plant-manateegrass": {
+"title": "Manatee grass",
+"q": "Syringodium filiforme",
+"group": "seagrass (flowering plant)"
+},
+"plant-redmangrove": {
+"title": "Red mangrove",
+"q": "Rhizophora mangle",
+"group": "mangrove tree"
+},
+"plant-blackmangrove": {
+"title": "Black mangrove",
+"q": "Avicennia germinans",
+"group": "mangrove tree"
+},
+"plant-cordgrass": {
+"title": "Saltmarsh cordgrass",
+"q": "Spartina",
+"group": "salt-marsh grass"
+},
+"fish-hogfish": {
+"title": "Hogfish",
+"q": "Lachnolaimus maximus",
+"group": "wrasse"
+},
+"fish-napoleonwrasse": {
+"title": "Humphead (Napoleon) wrasse",
+"q": "Cheilinus undulatus",
+"group": "wrasse"
+},
+"fish-dottyback": {
+"title": "Dottyback",
+"q": "Pseudochromidae",
+"group": "dottyback"
+},
+"fish-jawfish": {
+"title": "Jawfish",
+"q": "Opistognathus",
+"group": "jawfish"
+},
+"fish-firefish": {
+"title": "Firefish (dartfish)",
+"q": "Nemateleotris",
+"group": "dartfish"
+},
+"fish-tilefish": {
+"title": "Tilefish",
+"q": "Malacanthidae",
+"group": "tilefish"
+},
+"fish-wolffish": {
+"title": "Atlantic wolffish",
+"q": "Anarhichas lupus",
+"group": "wolffish"
+},
+"fish-lumpsucker": {
+"title": "Lumpsucker",
+"q": "Cyclopterus lumpus",
+"group": "lumpsucker"
+},
+"fish-sculpin": {
+"title": "Sculpin",
+"q": "Cottidae",
+"group": "sculpin"
+},
+"fish-rockfish": {
+"title": "Rockfish",
+"q": "Sebastes",
+"group": "rockfish"
+},
+"fish-greenling": {
+"title": "Greenling",
+"q": "Hexagrammos",
+"group": "greenling"
+},
+"fish-cod": {
+"title": "Atlantic cod",
+"q": "Gadus morhua",
+"group": "cod"
+},
+"fish-haddock": {
+"title": "Haddock",
+"q": "Melanogrammus aeglefinus",
+"group": "cod relative"
+},
+"fish-pollock": {
+"title": "Pollock",
+"q": "Gadus chalcogrammus",
+"group": "cod relative"
+},
+"fish-hake": {
+"title": "Hake",
+"q": "Merluccius",
+"group": "cod relative"
+},
+"fish-surfperch": {
+"title": "Surfperch",
+"q": "Embiotocidae",
+"group": "surfperch"
+},
+"fish-blackdrum": {
+"title": "Black drum",
+"q": "Pogonias cromis",
+"group": "drum"
+},
+"fish-croaker": {
+"title": "Croaker",
+"q": "Micropogonias undulatus",
+"group": "drum"
+},
+"fish-reddrum": {
+"title": "Red drum",
+"q": "Sciaenops ocellatus",
+"group": "drum"
+},
+"fish-sheepshead": {
+"title": "Sheepshead",
+"q": "Archosargus probatocephalus",
+"group": "porgy relative"
+},
+"fish-porgy": {
+"title": "Porgy",
+"q": "Sparidae",
+"group": "porgy"
+},
+"fish-trumpetfish": {
+"title": "Trumpetfish",
+"q": "Aulostomus",
+"group": "trumpetfish"
+},
+"fish-cornetfish": {
+"title": "Cornetfish",
+"q": "Fistularia",
+"group": "cornetfish"
+},
+"fish-pineconefish": {
+"title": "Pineconefish",
+"q": "Monocentris",
+"group": "pineconefish"
+},
+"fish-grunion": {
+"title": "Grunion",
+"q": "Leuresthes tenuis",
+"group": "silverside"
+},
+"fish-sandlance": {
+"title": "Sand lance",
+"q": "Ammodytes",
+"group": "sand lance"
+},
+"fish-icefish": {
+"title": "Antarctic icefish",
+"q": "Channichthyidae",
+"group": "icefish"
+},
+"fish-silverside": {
+"title": "Silverside",
+"q": "Atherinidae",
+"group": "silverside"
+},
+"shark-bonnethead": {
+"title": "Bonnethead shark",
+"q": "Sphyrna tiburo",
+"group": "shark"
+},
+"shark-salmon": {
+"title": "Salmon shark",
+"q": "Lamna ditropis",
+"group": "shark"
+},
+"shark-porbeagle": {
+"title": "Porbeagle",
+"q": "Lamna nasus",
+"group": "shark"
+},
+"shark-sixgill": {
+"title": "Bluntnose sixgill shark",
+"q": "Hexanchus griseus",
+"group": "shark"
+},
+"shark-sevengill": {
+"title": "Broadnose sevengill shark",
+"q": "Notorynchus cepedianus",
+"group": "shark"
+},
+"shark-swell": {
+"title": "Swell shark",
+"q": "Cephaloscyllium ventriosum",
+"group": "shark"
+},
+"shark-horn": {
+"title": "Horn shark",
+"q": "Heterodontus francisci",
+"group": "shark"
+},
+"shark-bamboo": {
+"title": "Bamboo shark",
+"q": "Chiloscyllium",
+"group": "carpet shark"
+},
+"shark-leopard-pacific": {
+"title": "Leopard shark",
+"q": "Triakis semifasciata",
+"group": "shark"
+},
+"shark-smoothhound": {
+"title": "Smooth-hound",
+"q": "Mustelus",
+"group": "shark"
+},
+"ray-batray": {
+"title": "Bat ray",
+"q": "Myliobatis californica",
+"group": "ray"
+},
+"ray-pelagic-stingray": {
+"title": "Pelagic stingray",
+"q": "Pteroplatytrygon violacea",
+"group": "ray"
+},
+"crus-stonecrab": {
+"title": "Stone crab",
+"q": "Menippe mercenaria",
+"group": "crustacean"
+},
+"crus-mudcrab": {
+"title": "Mangrove mud crab",
+"q": "Scylla serrata",
+"group": "crustacean"
+},
+"crus-arrowcrab": {
+"title": "Arrow crab",
+"q": "Stenorhynchus seticornis",
+"group": "crustacean"
+},
+"crus-sallylightfoot": {
+"title": "Sally Lightfoot crab",
+"q": "Grapsus grapsus",
+"group": "crustacean"
+},
+"crus-peacrab": {
+"title": "Pea crab",
+"q": "Pinnotheres",
+"group": "crustacean"
+},
+"crus-boxercrab": {
+"title": "Boxer (pom-pom) crab",
+"q": "Lybia",
+"group": "crustacean"
+},
+"crus-kelpcrab": {
+"title": "Kelp crab",
+"q": "Pugettia",
+"group": "crustacean"
+},
+"crus-boxcrab": {
+"title": "Box (shame-faced) crab",
+"q": "Calappa",
+"group": "crustacean"
+},
+"crus-harlequinshrimp": {
+"title": "Harlequin shrimp",
+"q": "Hymenocera picta",
+"group": "crustacean"
+},
+"crus-bandedcoralshrimp": {
+"title": "Banded coral shrimp",
+"q": "Stenopus hispidus",
+"group": "crustacean"
+},
+"crus-peppermintshrimp": {
+"title": "Peppermint shrimp",
+"q": "Lysmata wurdemanni",
+"group": "crustacean"
+},
+"crus-ghostshrimp": {
+"title": "Ghost shrimp",
+"q": "Callianassidae",
+"group": "crustacean"
+},
+"crus-anemoneshrimp": {
+"title": "Anemone shrimp",
+"q": "Periclimenes",
+"group": "crustacean"
+},
+"crus-emperorshrimp": {
+"title": "Emperor shrimp",
+"q": "Periclimenes",
+"group": "crustacean"
+},
+"gast-turbansnail": {
+"title": "Turban snail",
+"q": "Turbo",
+"group": "mollusc (gastropod)"
+},
+"gast-topshell": {
+"title": "Top shell",
+"q": "Trochus",
+"group": "mollusc (gastropod)"
+},
+"gast-nerite": {
+"title": "Nerite",
+"q": "Nerita",
+"group": "mollusc (gastropod)"
+},
+"gast-drupe": {
+"title": "Drupe snail",
+"q": "Drupa",
+"group": "mollusc (gastropod)"
+},
+"gast-bubbleshell": {
+"title": "Bubble shell",
+"q": "Bulla",
+"group": "mollusc (gastropod)"
+},
+"gast-tunshell": {
+"title": "Tun shell",
+"q": "Tonna",
+"group": "mollusc (gastropod)"
+},
+"cnid-mushroomcoral": {
+"title": "Mushroom coral",
+"q": "Fungiidae",
+"group": "cnidarian (stony coral)"
+},
+"cnid-bubblecoral": {
+"title": "Bubble coral",
+"q": "Plerogyra sinuosa",
+"group": "cnidarian (stony coral)"
+},
+"cnid-suncoral": {
+"title": "Sun coral",
+"q": "Tubastraea",
+"group": "cnidarian (cup coral)"
+},
+"cnid-pillarcoral": {
+"title": "Pillar coral",
+"q": "Dendrogyra cylindrus",
+"group": "cnidarian (stony coral)"
+},
+"cnid-carpetanemone": {
+"title": "Carpet anemone",
+"q": "Stichodactyla",
+"group": "cnidarian (anemone)"
+},
+"cnid-magnificentanemone": {
+"title": "Magnificent anemone",
+"q": "Heteractis magnifica",
+"group": "cnidarian (anemone)"
+},
+"cnid-zoanthid": {
+"title": "Zoanthid (button polyps)",
+"q": "Zoanthus",
+"group": "cnidarian (zoanthid)"
+},
+"echi-cushionstar": {
+"title": "Cushion star",
+"q": "Culcita",
+"group": "echinoderm"
+},
+"echi-fireurchin": {
+"title": "Fire urchin",
+"q": "Asthenosoma varium",
+"group": "echinoderm"
+},
+"echi-flowerurchin": {
+"title": "Flower urchin",
+"q": "Toxopneustes pileolus",
+"group": "echinoderm"
+},
+"echi-hearturchin": {
+"title": "Heart urchin (sea potato)",
+"q": "Echinocardium cordatum",
+"group": "echinoderm"
+}
+}

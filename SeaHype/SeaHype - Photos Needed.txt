@@ -1,0 +1,901 @@
+SeaHype Marine Biology Education — PHOTOS NEEDED
+========================================================================
+
+501 lessons total. 444 are species 'field-guide' lessons; each should get ONE
+clear, representative photo of that EXACT species. The other 57 are concept
+lessons that use scene illustrations (listed at the end — species photos there
+are optional).
+
+HOW TO MATCH LIKENESS: source by the SCIENTIFIC NAME / SEARCH TERM shown in the
+middle column. For broad groups the term is the family/genus, so any clean
+member of that group works.
+
+FILE NAMING (if you later drop them into the bake step): save each photo as
+<lesson-id>.jpg  (e.g.  fish-clownfish.jpg) — the id is the last column.
+Prefer open-license sources (Wikimedia Commons, iNaturalist CC, NOAA public
+domain). Landscape orientation, subject centered, no watermark.
+
+========================================================================
+SPECIES PHOTOS (444) — grouped by type
+========================================================================
+
+--- ANCHOVY (1) ---
+  Anchovy                          Engraulis                          [fish-anchovy]  (organisms)
+
+--- ANGELFISH (1) ---
+  Queen angelfish                  Holacanthus ciliaris               [fish-angelfish]  (organisms)
+
+--- ANGLERFISH (1) ---
+  Deep-sea anglerfish              Melanocetus                        [fish-anglerfish-deep]  (organisms)
+
+--- ANGLERFISH (SHALLOW) (1) ---
+  Frogfish                         Antennariidae                      [fish-frogfish]  (organisms)
+
+--- ARCHERFISH (1) ---
+  Archerfish                       Toxotes                            [fish-archerfish]  (organisms)
+
+--- BALEEN WHALE (MARINE MAMMAL) (8) ---
+  Blue whale                       Balaenoptera musculus              [mammal-bluewhale]  (organisms)
+  Bowhead whale                    Balaena mysticetus                 [mammal-bowhead]  (organisms)
+  Fin whale                        Balaenoptera physalus              [mammal-finwhale]  (organisms)
+  Gray whale                       Eschrichtius robustus              [mammal-graywhale]  (organisms)
+  Humpback whale                   Megaptera novaeangliae             [mammal-humpback]  (organisms)
+  Minke whale                      Balaenoptera acutorostrata         [mammal-minke]  (organisms)
+  North Atlantic right whale       Eubalaena glacialis                [mammal-rightwhale]  (organisms)
+  Sei whale                        Balaenoptera borealis              [mammal-seiwhale]  (organisms)
+
+--- BARRACUDA (1) ---
+  Great barracuda                  Sphyraena barracuda                [fish-barracuda]  (organisms)
+
+--- BIGEYE (1) ---
+  Bigeye                           Priacanthidae                      [fish-bigeye]  (organisms)
+
+--- BILLFISH (3) ---
+  Blue marlin                      Makaira nigricans                  [fish-marlin-blue]  (organisms)
+  Sailfish                         Istiophorus platypterus            [fish-sailfish]  (organisms)
+  Swordfish                        Xiphias gladius                    [fish-swordfish]  (organisms)
+
+--- BLENNY (1) ---
+  Blenny                           Blenniidae                         [fish-blenny]  (organisms)
+
+--- BLUEFISH (1) ---
+  Bluefish                         Pomatomus saltatrix                [fish-bluefish]  (organisms)
+
+--- BOXFISH (1) ---
+  Boxfish                          Ostraciidae                        [fish-boxfish]  (organisms)
+
+--- BRISTLEMOUTH (1) ---
+  Bristlemouth                     Cyclothone                         [fish-bristlemouth]  (organisms)
+
+--- BROWN ALGA (KELP) (3) ---
+  Bull kelp                        Nereocystis luetkeana              [algae-bullkelp]  (organisms)
+  Giant kelp                       Macrocystis pyrifera               [algae-giantkelp]  (organisms)
+  Kombu                            Saccharina                         [algae-kombu]  (organisms)
+
+--- BROWN ALGA (SARGASSUM) (1) ---
+  Sargassum                        Sargassum                          [algae-sargassum]  (organisms)
+
+--- BUTTERFLYFISH (1) ---
+  Butterflyfish                    Chaetodontidae                     [fish-butterflyfish]  (organisms)
+
+--- CARDINALFISH (1) ---
+  Cardinalfish                     Apogonidae                         [fish-cardinalfish]  (organisms)
+
+--- CARPET SHARK (2) ---
+  Bamboo shark                     Chiloscyllium                      [shark-bamboo]  (organisms)
+  Wobbegong                        Orectolobus                        [shark-wobbegong]  (organisms)
+
+--- CARTILAGINOUS FISH (1) ---
+  Chimaera (ratfish)               Chimaeridae                        [fish-chimaera]  (organisms)
+
+--- CHELICERATE (NOT A TRUE CRAB) (1) ---
+  Horseshoe crab                   Limulus polyphemus                 [crus-horseshoecrab]  (organisms)
+
+--- CNIDARIAN (ANEMONE) (4) ---
+  Carpet anemone                   Stichodactyla                      [cnid-carpetanemone]  (organisms)
+  Magnificent anemone              Heteractis magnifica               [cnid-magnificentanemone]  (organisms)
+  Sea anemone                      Actiniaria                         [cnid-seaanemone]  (organisms)
+  Tube anemone                     Cerianthus                         [cnid-tubeanemone]  (organisms)
+
+--- CNIDARIAN (CORAL) (1) ---
+  Black coral                      Antipatharia                       [cnid-blackcoral]  (organisms)
+
+--- CNIDARIAN (CUP CORAL) (1) ---
+  Sun coral                        Tubastraea                         [cnid-suncoral]  (organisms)
+
+--- CNIDARIAN (HYDROZOAN) (3) ---
+  By-the-wind sailor               Velella velella                    [cnid-bluebottle-bythewind]  (organisms)
+  Fire coral                       Millepora                          [cnid-firecoral]  (organisms)
+  Hydroid                          Aglaophenia                        [cnid-hydroid]  (organisms)
+
+--- CNIDARIAN (JELLYFISH) (5) ---
+  Box jellyfish                    Chironex fleckeri                  [cnid-boxjelly]  (organisms)
+  Cannonball jelly                 Stomolophus meleagris              [cnid-cannonball]  (organisms)
+  Irukandji jellyfish              Carukia barnesi                    [cnid-seawasp]  (organisms)
+  Lion's mane jelly                Cyanea capillata                   [cnid-lionsmane]  (organisms)
+  Moon jelly                       Aurelia aurita                     [cnid-moonjelly]  (organisms)
+
+--- CNIDARIAN (OCTOCORAL) (1) ---
+  Sea pen                          Pennatula                          [cnid-seapen]  (organisms)
+
+--- CNIDARIAN (SIPHONOPHORE) (1) ---
+  Portuguese man o' war            Physalia physalis                  [cnid-portuguese]  (organisms)
+
+--- CNIDARIAN (SOFT CORAL) (2) ---
+  Sea fan (gorgonian)              Gorgonia                           [cnid-seafan]  (organisms)
+  Soft coral                       Alcyonium                          [cnid-softcoral]  (organisms)
+
+--- CNIDARIAN (STONY CORAL) (6) ---
+  Brain coral                      Diploria                           [cnid-braincoral]  (organisms)
+  Bubble coral                     Plerogyra sinuosa                  [cnid-bubblecoral]  (organisms)
+  Elkhorn coral                    Acropora palmata                   [cnid-elkhorn]  (organisms)
+  Mushroom coral                   Fungiidae                          [cnid-mushroomcoral]  (organisms)
+  Pillar coral                     Dendrogyra cylindrus               [cnid-pillarcoral]  (organisms)
+  Staghorn coral                   Acropora cervicornis               [cnid-staghorn]  (organisms)
+
+--- CNIDARIAN (ZOANTHID) (1) ---
+  Zoanthid (button polyps)         Zoanthus                           [cnid-zoanthid]  (organisms)
+
+--- COBIA (1) ---
+  Cobia                            Rachycentron canadum               [fish-cobia]  (organisms)
+
+--- COD (1) ---
+  Atlantic cod                     Gadus morhua                       [fish-cod]  (organisms)
+
+--- COD RELATIVE (3) ---
+  Haddock                          Melanogrammus aeglefinus           [fish-haddock]  (organisms)
+  Hake                             Merluccius                         [fish-hake]  (organisms)
+  Pollock                          Gadus chalcogrammus                [fish-pollock]  (organisms)
+
+--- COMB JELLY (1) ---
+  Comb jelly (ctenophore)          Ctenophora                         [cnid-combjelly]  (organisms)
+
+--- CORNETFISH (1) ---
+  Cornetfish                       Fistularia                         [fish-cornetfish]  (organisms)
+
+--- CRUSTACEAN (35) ---
+  American lobster                 Homarus americanus                 [crus-americanlobster]  (organisms)
+  Amphipod                         Amphipoda                          [crus-amphipod]  (organisms)
+  Anemone shrimp                   Periclimenes                       [crus-anemoneshrimp]  (organisms)
+  Arrow crab                       Stenorhynchus seticornis           [crus-arrowcrab]  (organisms)
+  Banded coral shrimp              Stenopus hispidus                  [crus-bandedcoralshrimp]  (organisms)
+  Barnacle                         Balanus                            [crus-barnacle]  (organisms)
+  Blue crab                        Callinectes sapidus                [crus-bluecrab]  (organisms)
+  Box (shame-faced) crab           Calappa                            [crus-boxcrab]  (organisms)
+  Boxer (pom-pom) crab             Lybia                              [crus-boxercrab]  (organisms)
+  Cleaner shrimp                   Lysmata amboinensis                [crus-cleanershrimp]  (organisms)
+  Decorator crab                   Majidae                            [crus-decoratorcrab]  (organisms)
+  Dungeness crab                   Metacarcinus magister              [crus-dungeness]  (organisms)
+  Emperor shrimp                   Periclimenes                       [crus-emperorshrimp]  (organisms)
+  Fiddler crab                     Uca                                [crus-fiddlercrab]  (organisms)
+  Ghost crab                       Ocypode                            [crus-ghostcrab]  (organisms)
+  Ghost shrimp                     Callianassidae                     [crus-ghostshrimp]  (organisms)
+  Giant isopod                     Bathynomus                         [crus-isopod-giant]  (organisms)
+  Goose barnacle                   Lepas                              [crus-goosebarnacle]  (organisms)
+  Harlequin shrimp                 Hymenocera picta                   [crus-harlequinshrimp]  (organisms)
+  Hermit crab                      Paguroidea                         [crus-hermitcrab]  (organisms)
+  Japanese spider crab             Macrocheira kaempferi              [crus-spidercrab]  (organisms)
+  Kelp crab                        Pugettia                           [crus-kelpcrab]  (organisms)
+  King crab                        Paralithodes                       [crus-kingcrab]  (organisms)
+  Mangrove mud crab                Scylla serrata                     [crus-mudcrab]  (organisms)
+  Mantis shrimp                    Stomatopoda                        [crus-mantisshrimp]  (organisms)
+  Pea crab                         Pinnotheres                        [crus-peacrab]  (organisms)
+  Peppermint shrimp                Lysmata wurdemanni                 [crus-peppermintshrimp]  (organisms)
+  Pistol shrimp                    Alpheus                            [crus-pistolshrimp]  (organisms)
+  Porcelain crab                   Porcellanidae                      [crus-porcelaincrab]  (organisms)
+  Sally Lightfoot crab             Grapsus grapsus                    [crus-sallylightfoot]  (organisms)
+  Sand hopper                      Talitrus                           [crus-sandhopper]  (organisms)
+  Slipper lobster                  Scyllaridae                        [crus-slipperlobster]  (organisms)
+  Snow crab                        Chionoecetes opilio                [crus-snowcrab]  (organisms)
+  Spiny lobster                    Panulirus                          [crus-spinylobster]  (organisms)
+  Stone crab                       Menippe mercenaria                 [crus-stonecrab]  (organisms)
+
+--- CRUSTACEAN (KRILL) (1) ---
+  Antarctic krill                  Euphausia superba                  [crus-krill]  (organisms)
+
+--- CRUSTACEAN (LAND) (1) ---
+  Coconut crab                     Birgus latro                       [crus-coconutcrab]  (organisms)
+
+--- CRUSTACEAN (PLANKTON) (1) ---
+  Copepod                          Copepoda                           [crus-copepod]  (organisms)
+
+--- CUSK-EEL (1) ---
+  Cusk-eel                         Ophidiidae                         [fish-cusk-eel]  (organisms)
+
+--- CYANOBACTERIA (MICROBE) (2) ---
+  Prochlorococcus                  Prochlorococcus                    [plank-cyanobacteria]  (organisms)
+  Trichodesmium                    Trichodesmium                      [plank-trichodesmium]  (organisms)
+
+--- DAMSELFISH (2) ---
+  Clownfish                        Amphiprion ocellaris               [fish-clownfish]  (organisms)
+  Damselfish                       Pomacentridae                      [fish-damselfish]  (organisms)
+
+--- DARTFISH (1) ---
+  Firefish (dartfish)              Nemateleotris                      [fish-firefish]  (organisms)
+
+--- DEEP-SEA ANGLERFISH (1) ---
+  Coffinfish                       Chaunax                            [fish-coffinfish]  (organisms)
+
+--- DEEP-SEA FISH (1) ---
+  Tripodfish                       Bathypterois grallator             [fish-tripod]  (organisms)
+
+--- DOLPHIN (MARINE MAMMAL) (9) ---
+  Atlantic spotted dolphin         Stenella frontalis                 [mammal-spotted-dolphin]  (organisms)
+  Bottlenose dolphin               Tursiops truncatus                 [mammal-bottlenose]  (organisms)
+  Common dolphin                   Delphinus delphis                  [mammal-common-dolphin]  (organisms)
+  False killer whale               Pseudorca crassidens               [mammal-falsekiller]  (organisms)
+  Orca (killer whale)              Orcinus orca                       [mammal-orca]  (organisms)
+  Pilot whale                      Globicephala                       [mammal-pilot]  (organisms)
+  Risso's dolphin                  Grampus griseus                    [mammal-risso]  (organisms)
+  River dolphin                    Inia geoffrensis                   [mammal-amazon-river]  (organisms)
+  Spinner dolphin                  Stenella longirostris              [mammal-spinner]  (organisms)
+
+--- DOLPHINFISH (1) ---
+  Mahi-mahi                        Coryphaena hippurus                [fish-mahimahi]  (organisms)
+
+--- DOTTYBACK (1) ---
+  Dottyback                        Pseudochromidae                    [fish-dottyback]  (organisms)
+
+--- DRAGONET (1) ---
+  Mandarinfish                     Synchiropus splendidus             [fish-mandarinfish]  (organisms)
+
+--- DRAGONFISH (1) ---
+  Black dragonfish                 Idiacanthus                        [fish-dragonfish]  (organisms)
+
+--- DRAGONFISH RELATIVE (1) ---
+  Viperfish                        Chauliodus                         [fish-viperfish]  (organisms)
+
+--- DRUM (3) ---
+  Black drum                       Pogonias cromis                    [fish-blackdrum]  (organisms)
+  Croaker                          Micropogonias undulatus            [fish-croaker]  (organisms)
+  Red drum                         Sciaenops ocellatus                [fish-reddrum]  (organisms)
+
+--- ECHINODERM (16) ---
+  Basket star                      Gorgonocephalus                    [echi-basketstar]  (organisms)
+  Brittle star                     Ophiuroidea                        [echi-brittlestar]  (organisms)
+  Crown-of-thorns starfish         Acanthaster planci                 [echi-crownofthorns]  (organisms)
+  Cushion star                     Culcita                            [echi-cushionstar]  (organisms)
+  Feather star (crinoid)           Crinoidea                          [echi-featherstar]  (organisms)
+  Fire urchin                      Asthenosoma varium                 [echi-fireurchin]  (organisms)
+  Flower urchin                    Toxopneustes pileolus              [echi-flowerurchin]  (organisms)
+  Heart urchin (sea potato)        Echinocardium cordatum             [echi-hearturchin]  (organisms)
+  Sand dollar                      Clypeasteroida                     [echi-sanddollar]  (organisms)
+  Sea apple                        Pseudocolochirus                   [echi-seaapple]  (organisms)
+  Sea cucumber                     Holothuroidea                      [echi-seacucumber]  (organisms)
+  Sea pig                          Scotoplanes                        [echi-seapig]  (organisms)
+  Sea star (starfish)              Asterias                           [echi-seastar]  (organisms)
+  Sea urchin                       Echinoidea                         [echi-seaurchin]  (organisms)
+  Slate pencil urchin              Heterocentrotus mamillatus         [echi-pencilurchin]  (organisms)
+  Sunflower star                   Pycnopodia helianthoides           [echi-sunflowerstar]  (organisms)
+
+--- EEL (5) ---
+  American eel                     Anguilla rostrata                  [fish-freshwater-eel]  (organisms)
+  Conger eel                       Conger                             [fish-conger]  (organisms)
+  Garden eel                       Heteroconger                       [fish-gardeneel]  (organisms)
+  Gulper eel (pelican eel)         Eurypharynx pelecanoides           [fish-gulper]  (organisms)
+  Moray eel                        Muraenidae                         [fish-moray]  (organisms)
+
+--- FANGTOOTH (1) ---
+  Fangtooth                        Anoplogaster cornuta               [fish-fangtooth]  (organisms)
+
+--- FATHEAD SCULPIN (1) ---
+  Blobfish                         Psychrolutes                       [fish-blobfish]  (organisms)
+
+--- FILEFISH (1) ---
+  Filefish                         Monacanthidae                      [fish-filefish]  (organisms)
+
+--- FLATFISH (3) ---
+  Flounder                         Paralichthys                       [fish-flounder]  (organisms)
+  Halibut                          Hippoglossus                       [fish-halibut]  (organisms)
+  Sole                             Soleidae                           [fish-sole]  (organisms)
+
+--- FLYINGFISH (1) ---
+  Flying fish                      Exocoetidae                        [fish-flyingfish]  (organisms)
+
+--- FUR SEAL (MARINE MAMMAL) (1) ---
+  Northern fur seal                Callorhinus ursinus                [mammal-fursealnorth]  (organisms)
+
+--- GOATFISH (1) ---
+  Goatfish                         Mullidae                           [fish-goatfish]  (organisms)
+
+--- GOBY (1) ---
+  Goby                             Gobiidae                           [fish-goby]  (organisms)
+
+--- GOBY (AMPHIBIOUS) (1) ---
+  Mudskipper                       Periophthalmus                     [fish-mudskipper]  (organisms)
+
+--- GREEN ALGA (2) ---
+  Caulerpa                         Caulerpa                           [algae-caulerpa]  (organisms)
+  Sea lettuce (Ulva)               Ulva                               [algae-sealettuce]  (organisms)
+
+--- GREEN ALGA (CALCIFIED) (1) ---
+  Halimeda                         Halimeda                           [algae-halimeda]  (organisms)
+
+--- GREENLING (1) ---
+  Greenling                        Hexagrammos                        [fish-greenling]  (organisms)
+
+--- GRENADIER (1) ---
+  Grenadier (rattail)              Macrouridae                        [fish-grenadier]  (organisms)
+
+--- GROUPER (1) ---
+  Goliath grouper                  Epinephelus itajara                [fish-grouper]  (organisms)
+
+--- GRUNT (1) ---
+  Grunt                            Haemulidae                         [fish-grunt]  (organisms)
+
+--- GRUNT RELATIVE (1) ---
+  Sweetlips                        Plectorhinchus                     [fish-sweetlips]  (organisms)
+
+--- HALFBEAK (1) ---
+  Halfbeak                         Hemiramphidae                      [fish-halfbeak]  (organisms)
+
+--- HATCHETFISH (1) ---
+  Hatchetfish                      Argyropelecus                      [fish-hatchetfish]  (organisms)
+
+--- HAWKFISH (1) ---
+  Hawkfish                         Cirrhitidae                        [fish-hawkfish]  (organisms)
+
+--- HERRING (1) ---
+  Atlantic herring                 Clupea harengus                    [fish-herring]  (organisms)
+
+--- HERRING RELATIVE (2) ---
+  Menhaden                         Brevoortia                         [fish-menhaden]  (organisms)
+  Sardine                          Sardinops sagax                    [fish-sardine]  (organisms)
+
+--- ICEFISH (1) ---
+  Antarctic icefish                Channichthyidae                    [fish-icefish]  (organisms)
+
+--- JACK (3) ---
+  Giant trevally                   Caranx ignobilis                   [fish-jackfish]  (organisms)
+  Jack mackerel                    Trachurus                          [fish-jackmackerel]  (organisms)
+  Pompano                          Trachinotus                        [fish-pompano]  (organisms)
+
+--- JAWFISH (1) ---
+  Jawfish                          Opistognathus                      [fish-jawfish]  (organisms)
+
+--- JAWLESS FISH (2) ---
+  Hagfish                          Myxinidae                          [fish-hagfish]  (organisms)
+  Sea lamprey                      Petromyzon marinus                 [fish-lamprey]  (organisms)
+
+--- KNIFEFISH (NOT A TRUE EEL) (1) ---
+  Electric eel                     Electrophorus electricus           [fish-electriceel]  (organisms)
+
+--- LANTERNFISH (1) ---
+  Lanternfish                      Myctophidae                        [fish-lanternfish]  (organisms)
+
+--- LIZARDFISH (1) ---
+  Deep-sea lizardfish              Bathysaurus                        [fish-lizardfish]  (organisms)
+
+--- LOBE-FINNED FISH (1) ---
+  Coelacanth                       Latimeria chalumnae                [fish-coelacanth]  (organisms)
+
+--- LUMPSUCKER (1) ---
+  Lumpsucker                       Cyclopterus lumpus                 [fish-lumpsucker]  (organisms)
+
+--- MACKEREL (2) ---
+  Atlantic mackerel                Scomber scombrus                   [fish-mackerel]  (organisms)
+  King mackerel                    Scomberomorus cavalla              [fish-kingmackerel]  (organisms)
+
+--- MACKEREL RELATIVE (1) ---
+  Wahoo                            Acanthocybium solandri             [fish-wahoo]  (organisms)
+
+--- MANGROVE TREE (2) ---
+  Black mangrove                   Avicennia germinans                [plant-blackmangrove]  (organisms)
+  Red mangrove                     Rhizophora mangle                  [plant-redmangrove]  (organisms)
+
+--- MARINE MAMMAL (BEAR) (1) ---
+  Polar bear                       Ursus maritimus                    [mammal-polarbear]  (organisms)
+
+--- MARINE MICROBE (ARCHAEA) (1) ---
+  Marine archaea                   Marine archaea                     [microbe-archaea]  (organisms)
+
+--- MARINE MICROBE (BACTERIA) (1) ---
+  Bacterioplankton                 Bacterioplankton                   [microbe-bacterioplankton]  (organisms)
+
+--- MARINE MICROBE (VIRUS) (1) ---
+  Marine virus                     Marine virus                       [microbe-virus]  (organisms)
+
+--- MARINE REPTILE (CROCODILE) (1) ---
+  Saltwater crocodile              Crocodylus porosus                 [reptile-saltwatercroc]  (organisms)
+
+--- MARINE REPTILE (LIZARD) (1) ---
+  Marine iguana                    Amblyrhynchus cristatus            [reptile-marineiguana]  (organisms)
+
+--- MARINE REPTILE (SNAKE) (2) ---
+  Sea krait                        Laticauda                          [reptile-seakrait]  (organisms)
+  Sea snake                        Hydrophis                          [reptile-seasnake]  (organisms)
+
+--- MARINE WORM (4) ---
+  Bone-eating worm (Osedax)        Osedax                             [worm-osedax]  (organisms)
+  Innkeeper worm (echiuran)        Urechis                            [worm-innkeeper]  (organisms)
+  Peanut worm (sipunculan)         Sipuncula                          [worm-peanutworm]  (organisms)
+  Ribbon worm (nemertean)          Nemertea                           [worm-ribbonworm]  (organisms)
+
+--- MARINE WORM (CHAETOGNATH) (1) ---
+  Arrow worm                       Chaetognatha                       [worm-arrowworm]  (organisms)
+
+--- MARINE WORM (FLATWORM) (1) ---
+  Marine flatworm                  Polycladida                        [worm-flatworm]  (organisms)
+
+--- MARINE WORM (POLYCHAETE) (4) ---
+  Bristle worm                     Polychaeta                         [worm-bristle]  (organisms)
+  Christmas tree worm              Spirobranchus giganteus            [worm-christmastree]  (organisms)
+  Feather duster worm              Sabellidae                         [worm-featherduster]  (organisms)
+  Palolo worm                      Palola                             [worm-palolo]  (organisms)
+
+--- MARINE WORM (VENT) (1) ---
+  Giant tube worm                  Riftia pachyptila                  [worm-tubeworm-vent]  (organisms)
+
+--- MOLLUSC (BIVALVE) (10) ---
+  Angel wing clam                  Cyrtopleura costata                [biv-angelwing]  (organisms)
+  Blue mussel                      Mytilus edulis                     [biv-mussel]  (organisms)
+  Cockle                           Cerastoderma                       [biv-cockle]  (organisms)
+  Giant clam                       Tridacna gigas                     [biv-giantclam]  (organisms)
+  Ocean quahog                     Arctica islandica                  [biv-quahog]  (organisms)
+  Oyster                           Ostreidae                          [biv-oyster]  (organisms)
+  Pen shell                        Pinna                              [biv-pen-shell]  (organisms)
+  Razor clam                       Ensis                              [biv-razor]  (organisms)
+  Scallop                          Pecten                             [biv-scallop]  (organisms)
+  Shipworm                         Teredo                             [biv-shipworm]  (organisms)
+
+--- MOLLUSC (CEPHALOPOD) (16) ---
+  Argonaut (paper nautilus)        Argonauta                          [ceph-paper-nautilus]  (organisms)
+  Blue-ringed octopus              Hapalochlaena                      [ceph-bluering]  (organisms)
+  Bobtail squid                    Euprymna                           [ceph-bobtail]  (organisms)
+  Caribbean reef squid             Sepioteuthis sepioidea             [ceph-reefsquid]  (organisms)
+  Chambered nautilus               Nautilus pompilius                 [ceph-nautilus]  (organisms)
+  Coconut octopus                  Amphioctopus marginatus            [ceph-coconut]  (organisms)
+  Colossal squid                   Mesonychoteuthis hamiltoni         [ceph-colossal]  (organisms)
+  Common octopus                   Octopus vulgaris                   [ceph-common]  (organisms)
+  Cuttlefish                       Sepia                              [ceph-cuttlefish]  (organisms)
+  Dumbo octopus                    Grimpoteuthis                      [ceph-dumbo]  (organisms)
+  Flamboyant cuttlefish            Metasepia pfefferi                 [ceph-flamboyant]  (organisms)
+  Giant Pacific octopus            Enteroctopus dofleini              [ceph-giantpacific]  (organisms)
+  Giant squid                      Architeuthis dux                   [ceph-giantsquid]  (organisms)
+  Humboldt squid                   Dosidicus gigas                    [ceph-humboldt]  (organisms)
+  Mimic octopus                    Thaumoctopus mimicus               [ceph-mimic]  (organisms)
+  Vampire squid                    Vampyroteuthis infernalis          [ceph-vampire]  (organisms)
+
+--- MOLLUSC (CHITON) (1) ---
+  Chiton                           Polyplacophora                     [moll-chiton]  (organisms)
+
+--- MOLLUSC (GASTROPOD) (15) ---
+  Abalone                          Haliotis                           [gast-abalone]  (organisms)
+  Bubble shell                     Bulla                              [gast-bubbleshell]  (organisms)
+  Cone snail                       Conus                              [gast-coneshell]  (organisms)
+  Cowrie                           Cypraea                            [gast-cowrie]  (organisms)
+  Drupe snail                      Drupa                              [gast-drupe]  (organisms)
+  Limpet                           Patella                            [gast-limpet]  (organisms)
+  Murex                            Murex                              [gast-murex]  (organisms)
+  Nerite                           Nerita                             [gast-nerite]  (organisms)
+  Periwinkle                       Littorina                          [gast-periwinkle]  (organisms)
+  Queen conch                      Aliger gigas                       [gast-conch]  (organisms)
+  Top shell                        Trochus                            [gast-topshell]  (organisms)
+  Triton's trumpet                 Charonia tritonis                  [gast-tritontrumpet]  (organisms)
+  Tun shell                        Tonna                              [gast-tunshell]  (organisms)
+  Turban snail                     Turbo                              [gast-turbansnail]  (organisms)
+  Whelk                            Buccinum                           [gast-whelk]  (organisms)
+
+--- MOLLUSC (SEA SLUG) (6) ---
+  Blue dragon (glaucus)            Glaucus atlanticus                 [gast-blueglaucus]  (organisms)
+  Lettuce sea slug                 Elysia crispata                    [gast-seaslug-lettuce]  (organisms)
+  Nudibranch (sea slug)            Nudibranchia                       [gast-nudibranch]  (organisms)
+  Sea butterfly (pteropod)         Limacina                           [gast-seabutterfly]  (organisms)
+  Sea hare                         Aplysia                            [gast-seahare]  (organisms)
+  Spanish dancer                   Hexabranchus sanguineus            [gast-spanishdancer]  (organisms)
+
+--- MULLET (1) ---
+  Mullet                           Mugilidae                          [fish-mullet]  (organisms)
+
+--- NEEDLEFISH (1) ---
+  Needlefish                       Belonidae                          [fish-needlefish]  (organisms)
+
+--- OARFISH (1) ---
+  Oarfish                          Regalecus glesne                   [fish-oarfish]  (organisms)
+
+--- OPAH (1) ---
+  Opah (moonfish)                  Lampris guttatus                   [fish-opah]  (organisms)
+
+--- PHYTOPLANKTON (1) ---
+  Coccolithophore                  Coccolithophyceae                  [plank-coccolithophore]  (organisms)
+
+--- PHYTOPLANKTON (DIATOM) (1) ---
+  Diatom                           Bacillariophyta                    [plank-diatom]  (organisms)
+
+--- PHYTOPLANKTON (DINOFLAGELLATE) (1) ---
+  Dinoflagellate                   Dinoflagellata                     [plank-dinoflagellate]  (organisms)
+
+--- PINECONEFISH (1) ---
+  Pineconefish                     Monocentris                        [fish-pineconefish]  (organisms)
+
+--- PIPEFISH (1) ---
+  Pipefish                         Syngnathus                         [fish-pipefish]  (organisms)
+
+--- PLANKTON (ANIMAL LARVA) (1) ---
+  Planktonic larva                 Planktonic larva                   [plank-larva]  (organisms)
+
+--- PLANKTON (DINOFLAGELLATE) (1) ---
+  Sea sparkle (Noctiluca)          Noctiluca scintillans              [plank-noctiluca]  (organisms)
+
+--- PLANKTON (PROTIST) (2) ---
+  Foraminifera                     Foraminifera                       [plank-foram]  (organisms)
+  Radiolaria                       Radiolaria                         [plank-radiolaria]  (organisms)
+
+--- PORGY (1) ---
+  Porgy                            Sparidae                           [fish-porgy]  (organisms)
+
+--- PORGY RELATIVE (1) ---
+  Sheepshead                       Archosargus probatocephalus        [fish-sheepshead]  (organisms)
+
+--- PORPOISE (MARINE MAMMAL) (3) ---
+  Dall's porpoise                  Phocoenoides dalli                 [mammal-dalls]  (organisms)
+  Harbor porpoise                  Phocoena phocoena                  [mammal-harborporpoise]  (organisms)
+  Vaquita                          Phocoena sinus                     [mammal-vaquita]  (organisms)
+
+--- PUFFERFISH (2) ---
+  Porcupinefish                    Diodontidae                        [fish-porcupinefish]  (organisms)
+  Pufferfish                       Tetraodontidae                     [fish-pufferfish]  (organisms)
+
+--- RABBITFISH (1) ---
+  Rabbitfish                       Siganus                            [fish-rabbitfish]  (organisms)
+
+--- RAY (14) ---
+  Bat ray                          Myliobatis californica             [ray-batray]  (organisms)
+  Blue-spotted ribbontail ray      Taeniura lymma                     [ray-bluespotted]  (organisms)
+  Cownose ray                      Rhinoptera bonasus                 [ray-cownose]  (organisms)
+  Devil ray (mobula)               Mobula                             [ray-devil]  (organisms)
+  Electric ray (torpedo)           Torpedo                            [ray-electric]  (organisms)
+  Giant manta ray                  Mobula birostris                   [ray-manta]  (organisms)
+  Guitarfish                       Rhinobatos                         [ray-guitarfish]  (organisms)
+  Marbled electric ray             Torpedo marmorata                  [ray-torpedo-marbled]  (organisms)
+  Pelagic stingray                 Pteroplatytrygon violacea          [ray-pelagic-stingray]  (organisms)
+  Reef manta ray                   Mobula alfredi                     [ray-manta-reef]  (organisms)
+  Sawfish                          Pristis                            [ray-sawfish]  (organisms)
+  Skate                            Rajidae                            [ray-skate]  (organisms)
+  Southern stingray                Hypanus americanus                 [ray-stingray-southern]  (organisms)
+  Spotted eagle ray                Aetobatus narinari                 [ray-eagle]  (organisms)
+
+--- RED ALGA (2) ---
+  Irish moss (Chondrus)            Chondrus crispus                   [algae-irishmoss]  (organisms)
+  Nori (Porphyra)                  Porphyra                           [algae-nori]  (organisms)
+
+--- RED ALGA (CALCIFIED) (1) ---
+  Coralline algae                  Corallinales                       [algae-coralline]  (organisms)
+
+--- REEF FISH (4) ---
+  Anthias                          Pseudanthias                       [fish-anthias]  (organisms)
+  Fusilier                         Caesionidae                        [fish-fusilier]  (organisms)
+  Moorish idol                     Zanclus cornutus                   [fish-moorishidol]  (organisms)
+  Parrotfish                       Scaridae                           [fish-parrotfish]  (organisms)
+
+--- ROCKFISH (1) ---
+  Rockfish                         Sebastes                           [fish-rockfish]  (organisms)
+
+--- SALT-MARSH GRASS (1) ---
+  Saltmarsh cordgrass              Spartina                           [plant-cordgrass]  (organisms)
+
+--- SAND LANCE (1) ---
+  Sand lance                       Ammodytes                          [fish-sandlance]  (organisms)
+
+--- SCORPIONFISH (3) ---
+  Lionfish                         Pterois                            [fish-lionfish]  (organisms)
+  Scorpionfish                     Scorpaenidae                       [fish-scorpionfish]  (organisms)
+  Stonefish                        Synanceia                          [fish-stonefish]  (organisms)
+
+--- SCULPIN (1) ---
+  Sculpin                          Cottidae                           [fish-sculpin]  (organisms)
+
+--- SEA LION (MARINE MAMMAL) (2) ---
+  California sea lion              Zalophus californianus             [mammal-californiasealion]  (organisms)
+  Steller sea lion                 Eumetopias jubatus                 [mammal-stellersealion]  (organisms)
+
+--- SEA OTTER (MARINE MAMMAL) (1) ---
+  Sea otter                        Enhydra lutris                     [mammal-seaotter]  (organisms)
+
+--- SEA TURTLE (REPTILE) (7) ---
+  Flatback turtle                  Natator depressus                  [reptile-flatback]  (organisms)
+  Green sea turtle                 Chelonia mydas                     [reptile-greenturtle]  (organisms)
+  Hawksbill turtle                 Eretmochelys imbricata             [reptile-hawksbill]  (organisms)
+  Kemp's ridley turtle             Lepidochelys kempii                [reptile-kempsridley]  (organisms)
+  Leatherback turtle               Dermochelys coriacea               [reptile-leatherback]  (organisms)
+  Loggerhead turtle                Caretta caretta                    [reptile-loggerhead]  (organisms)
+  Olive ridley turtle              Lepidochelys olivacea              [reptile-oliveridley]  (organisms)
+
+--- SEABIRD (9) ---
+  Blue-footed booby                Sula nebouxii                      [bird-bluefoocedbooby]  (organisms)
+  Brown pelican                    Pelecanus occidentalis             [bird-brownpelican]  (organisms)
+  Cormorant                        Phalacrocorax                      [bird-cormorant]  (organisms)
+  Great skua                       Stercorarius skua                  [bird-skua]  (organisms)
+  Laysan albatross                 Phoebastria immutabilis            [bird-laysanalbatross]  (organisms)
+  Magnificent frigatebird          Fregata magnificens                [bird-frigatebird]  (organisms)
+  Northern gannet                  Morus bassanus                     [bird-northerngannet]  (organisms)
+  Red-tailed tropicbird            Phaethon rubricauda                [bird-tropicbird]  (organisms)
+  Wandering albatross              Diomedea exulans                   [bird-wanderingalbatross]  (organisms)
+
+--- SEABIRD (AUK) (4) ---
+  Atlantic puffin                  Fratercula arctica                 [bird-atlanticpuffin]  (organisms)
+  Auklet                           Aethia                             [bird-pelagic-auklet]  (organisms)
+  Common murre                     Uria aalge                         [bird-commonmurre]  (organisms)
+  Razorbill                        Alca torda                         [bird-razorbill]  (organisms)
+
+--- SEABIRD (CORMORANT) (1) ---
+  European shag                    Gulosus aristotelis                [bird-shag]  (organisms)
+
+--- SEABIRD (GULL) (2) ---
+  Black-legged kittiwake           Rissa tridactyla                   [bird-kittiwake]  (organisms)
+  Herring gull                     Larus argentatus                   [bird-herringgull]  (organisms)
+
+--- SEABIRD (PENGUIN) (6) ---
+  Adélie penguin                   Pygoscelis adeliae                 [bird-adeliepenguin]  (organisms)
+  Emperor penguin                  Aptenodytes forsteri               [bird-emperorpenguin]  (organisms)
+  Galápagos penguin                Spheniscus mendiculus              [bird-galapagospenguin]  (organisms)
+  Gentoo penguin                   Pygoscelis papua                   [bird-gentoo]  (organisms)
+  King penguin                     Aptenodytes patagonicus            [bird-kingpenguin]  (organisms)
+  Little blue penguin              Eudyptula minor                    [bird-littleblue]  (organisms)
+
+--- SEABIRD (PETREL) (3) ---
+  Northern fulmar                  Fulmarus glacialis                 [bird-fulmar]  (organisms)
+  Shearwater                       Puffinus                           [bird-shearwater]  (organisms)
+  Storm petrel                     Hydrobates                         [bird-petrel-storm]  (organisms)
+
+--- SEABIRD (TERN) (3) ---
+  Arctic tern                      Sterna paradisaea                  [bird-arctictern]  (organisms)
+  Common tern                      Sterna hirundo                     [bird-commontern]  (organisms)
+  Sooty tern                       Onychoprion fuscatus               [bird-sootytern]  (organisms)
+
+--- SEAGRASS (FLOWERING PLANT) (4) ---
+  Eelgrass                         Zostera marina                     [plant-eelgrass]  (organisms)
+  Manatee grass                    Syringodium filiforme              [plant-manateegrass]  (organisms)
+  Neptune grass (Posidonia)        Posidonia oceanica                 [plant-posidonia]  (organisms)
+  Turtle grass                     Thalassia testudinum               [plant-turtlegrass]  (organisms)
+
+--- SEAHORSE (1) ---
+  Seahorse                         Hippocampus                        [fish-seahorse]  (organisms)
+
+--- SEAHORSE RELATIVE (1) ---
+  Leafy seadragon                  Phycodurus eques                   [fish-seadragon]  (organisms)
+
+--- SHARK (37) ---
+  Angelshark                       Squatina                           [shark-angel]  (organisms)
+  Basking shark                    Cetorhinus maximus                 [shark-basking]  (organisms)
+  Blacktip reef shark              Carcharhinus melanopterus          [shark-reef-blacktip]  (organisms)
+  Blue shark                       Prionace glauca                    [shark-blue]  (organisms)
+  Bluntnose sixgill shark          Hexanchus griseus                  [shark-sixgill]  (organisms)
+  Bonnethead shark                 Sphyrna tiburo                     [shark-bonnethead]  (organisms)
+  Broadnose sevengill shark        Notorynchus cepedianus             [shark-sevengill]  (organisms)
+  Bull shark                       Carcharhinus leucas                [shark-bull]  (organisms)
+  Catshark                         Scyliorhinidae                     [shark-catshark]  (organisms)
+  Cookiecutter shark               Isistius brasiliensis              [shark-cookiecutter]  (organisms)
+  Epaulette shark                  Hemiscyllium ocellatum             [shark-epaulette]  (organisms)
+  Frilled shark                    Chlamydoselachus anguineus         [shark-frilled]  (organisms)
+  Goblin shark                     Mitsukurina owstoni                [shark-goblin]  (organisms)
+  Great hammerhead                 Sphyrna mokarran                   [shark-hammerhead]  (organisms)
+  Great white shark                Carcharodon carcharias             [shark-greatwhite]  (organisms)
+  Greenland shark                  Somniosus microcephalus            [shark-greenland]  (organisms)
+  Horn shark                       Heterodontus francisci             [shark-horn]  (organisms)
+  Lemon shark                      Negaprion brevirostris             [shark-lemon]  (organisms)
+  Leopard shark                    Triakis semifasciata               [shark-leopard-pacific]  (organisms)
+  Megamouth shark                  Megachasma pelagios                [shark-megamouth]  (organisms)
+  Nurse shark                      Ginglymostoma cirratum             [shark-nurse]  (organisms)
+  Oceanic whitetip shark           Carcharhinus longimanus            [shark-oceanic-whitetip]  (organisms)
+  Porbeagle                        Lamna nasus                        [shark-porbeagle]  (organisms)
+  Port Jackson shark               Heterodontus portusjacksoni        [shark-port-jackson]  (organisms)
+  Salmon shark                     Lamna ditropis                     [shark-salmon]  (organisms)
+  Sand tiger shark                 Carcharias taurus                  [shark-sandtiger]  (organisms)
+  Sawshark                         Pristiophorus                      [shark-saw]  (organisms)
+  Shortfin mako                    Isurus oxyrinchus                  [shark-mako]  (organisms)
+  Silky shark                      Carcharhinus falciformis           [shark-silky]  (organisms)
+  Smooth-hound                     Mustelus                           [shark-smoothhound]  (organisms)
+  Spiny dogfish                    Squalus acanthias                  [shark-dogfish]  (organisms)
+  Swell shark                      Cephaloscyllium ventriosum         [shark-swell]  (organisms)
+  Thresher shark                   Alopias                            [shark-thresher]  (organisms)
+  Tiger shark                      Galeocerdo cuvier                  [shark-tiger]  (organisms)
+  Whale shark                      Rhincodon typus                    [shark-whaleshark]  (organisms)
+  Whitetip reef shark              Triaenodon obesus                  [shark-reef-whitetip]  (organisms)
+  Zebra (leopard) shark            Stegostoma tigrinum                [shark-zebra]  (organisms)
+
+--- SHOREBIRD (SEABIRD) (1) ---
+  Oystercatcher                    Haematopus                         [bird-oystercatcher]  (organisms)
+
+--- SHRIMPFISH (1) ---
+  Razorfish (shrimpfish)           Aeoliscus strigatus                [fish-razorfish]  (organisms)
+
+--- SILVERSIDE (2) ---
+  Grunion                          Leuresthes tenuis                  [fish-grunion]  (organisms)
+  Silverside                       Atherinidae                        [fish-silverside]  (organisms)
+
+--- SIRENIAN (MARINE MAMMAL) (2) ---
+  Dugong                           Dugong dugon                       [mammal-dugong]  (organisms)
+  Manatee                          Trichechus                         [mammal-manatee]  (organisms)
+
+--- SMELT (1) ---
+  Capelin                          Mallotus villosus                  [fish-capelin]  (organisms)
+
+--- SNAILFISH (1) ---
+  Hadal snailfish                  Pseudoliparis                      [fish-snailfish-deep]  (organisms)
+
+--- SNAPPER (1) ---
+  Red snapper                      Lutjanus campechanus               [fish-snapper]  (organisms)
+
+--- SNOOK (1) ---
+  Snook                            Centropomus                        [fish-snook]  (organisms)
+
+--- SPADEFISH (1) ---
+  Batfish                          Platax                             [fish-batfish]  (organisms)
+
+--- SPONGE (4) ---
+  Encrusting sponge                Demospongiae                       [spng-encrusting]  (organisms)
+  Giant barrel sponge              Xestospongia muta                  [spng-barrelsponge]  (organisms)
+  Glass sponge                     Hexactinellida                     [spng-glasssponge]  (organisms)
+  Venus' flower basket             Euplectella aspergillum            [spng-venusflower]  (organisms)
+
+--- SQUIRRELFISH (1) ---
+  Squirrelfish                     Holocentridae                      [fish-squirrelfish]  (organisms)
+
+--- SQUIRRELFISH RELATIVE (1) ---
+  Soldierfish                      Myripristis                        [fish-soldierfish]  (organisms)
+
+--- STARGAZER (1) ---
+  Stargazer                        Uranoscopidae                      [fish-stargazer]  (organisms)
+
+--- STURGEON (1) ---
+  Sturgeon                         Acipenser                          [fish-sturgeon]  (organisms)
+
+--- SUCKERFISH (1) ---
+  Remora                           Echeneidae                         [fish-remora]  (organisms)
+
+--- SUNFISH (1) ---
+  Ocean sunfish (mola)             Mola mola                          [fish-sunfish-mola]  (organisms)
+
+--- SURFPERCH (1) ---
+  Surfperch                        Embiotocidae                       [fish-surfperch]  (organisms)
+
+--- SURGEONFISH (2) ---
+  Blue tang                        Paracanthurus hepatus              [fish-tang]  (organisms)
+  Surgeonfish                      Acanthuridae                       [fish-surgeonfish]  (organisms)
+
+--- TARPON (1) ---
+  Tarpon                           Megalops atlanticus                [fish-tarpon]  (organisms)
+
+--- TILEFISH (1) ---
+  Tilefish                         Malacanthidae                      [fish-tilefish]  (organisms)
+
+--- TOADFISH (1) ---
+  Toadfish                         Batrachoididae                     [fish-toadfish]  (organisms)
+
+--- TOOTHED WHALE (MARINE MAMMAL) (5) ---
+  Beluga whale                     Delphinapterus leucas              [mammal-beluga]  (organisms)
+  Cuvier's beaked whale            Ziphius cavirostris                [mammal-beaked]  (organisms)
+  Narwhal                          Monodon monoceros                  [mammal-narwhal]  (organisms)
+  Pygmy sperm whale                Kogia breviceps                    [mammal-pygmysperm]  (organisms)
+  Sperm whale                      Physeter macrocephalus             [mammal-spermwhale]  (organisms)
+
+--- TRIGGERFISH (1) ---
+  Triggerfish                      Balistidae                         [fish-triggerfish]  (organisms)
+
+--- TRUE SEAL (MARINE MAMMAL) (11) ---
+  Bearded seal                     Erignathus barbatus                [mammal-bearded]  (organisms)
+  Crabeater seal                   Lobodon carcinophaga               [mammal-crabeater]  (organisms)
+  Elephant seal                    Mirounga                           [mammal-elephantseal]  (organisms)
+  Gray seal                        Halichoerus grypus                 [mammal-graysealatl]  (organisms)
+  Harbor seal                      Phoca vitulina                     [mammal-harborseal]  (organisms)
+  Harp seal                        Pagophilus groenlandicus           [mammal-harp]  (organisms)
+  Hawaiian monk seal               Neomonachus schauinslandi          [mammal-monkseal]  (organisms)
+  Leopard seal                     Hydrurga leptonyx                  [mammal-leopardseal]  (organisms)
+  Ringed seal                      Pusa hispida                       [mammal-ringed]  (organisms)
+  Ross seal                        Ommatophoca rossii                 [mammal-ross]  (organisms)
+  Weddell seal                     Leptonychotes weddellii            [mammal-weddell]  (organisms)
+
+--- TRUMPETFISH (1) ---
+  Trumpetfish                      Aulostomus                         [fish-trumpetfish]  (organisms)
+
+--- TUNA (2) ---
+  Bluefin tuna                     Thunnus thynnus                    [fish-tuna-bluefin]  (organisms)
+  Yellowfin tuna                   Thunnus albacares                  [fish-tuna-yellowfin]  (organisms)
+
+--- TUNA RELATIVE (1) ---
+  Bonito                           Sarda                              [fish-bonito]  (organisms)
+
+--- TUNICATE (2) ---
+  Light bulb tunicate              Clavelina lepadiformis             [tuni-lightbulb]  (organisms)
+  Sea squirt                       Ascidiacea                         [tuni-seasquirt]  (organisms)
+
+--- TUNICATE (COLONY) (1) ---
+  Pyrosome                         Pyrosoma                           [tuni-pyrosome]  (organisms)
+
+--- TUNICATE (SALP) (1) ---
+  Salp                             Salpidae                           [tuni-salp]  (organisms)
+
+--- WALRUS (MARINE MAMMAL) (1) ---
+  Walrus                           Odobenus rosmarus                  [mammal-walrus]  (organisms)
+
+--- WOLFFISH (1) ---
+  Atlantic wolffish                Anarhichas lupus                   [fish-wolffish]  (organisms)
+
+--- WRASSE (3) ---
+  Cleaner wrasse                   Labroides dimidiatus               [fish-wrasse]  (organisms)
+  Hogfish                          Lachnolaimus maximus               [fish-hogfish]  (organisms)
+  Humphead (Napoleon) wrasse       Cheilinus undulatus                [fish-napoleonwrasse]  (organisms)
+
+========================================================================
+CONCEPT LESSONS (57) — scene illustration; species photo OPTIONAL
+========================================================================
+These teach ideas/processes rather than one species. They currently use an
+original scene illustration. List included in case you want a representative
+photo for any of them.
+
+
+  [conservation]
+    Fishing, overfishing, and sustainable seafood  [fisheries]
+    Ocean acidification: the other carbon problem  [acidification]
+    Ocean pollution: plastic, nutrients, and noise [pollution]
+    Protecting the ocean: MPAs and recovery        [protection]
+    The ocean and a changing climate               [climate-ocean]
+
+  [ecology]
+    Biodiversity and biogeography                  [biodiversity]
+    Cleaning stations: trust on the reef           [cleaning-stations]
+    Food webs and energy flow                      [food-webs]
+    How species interact                           [interactions]
+    Keystone species: sea otters and kelp          [keystone-otters]
+    Plankton: the drifting multitude               [plankton]
+    Primary production: who feeds the sea          [primary-production]
+    The twilight zone and the planet's biggest mig [twilight-zone]
+
+  [foundations]
+    Currents, gyres, and upwelling                 [currents]
+    Living on the bottom: the benthic realm        [zones-benthic]
+    One ocean, most of the planet                  [ocean-cover]
+    Pressure and the deep                          [pressure]
+    Temperature, density, and light in the sea     [temp-density-light]
+    The ocean in layers: pelagic zones             [zones-pelagic]
+    The shape of the seafloor and plate tectonics  [seafloor]
+    Tides and the moving shore                     [tides]
+    What marine biology is — and how to use SeaHyp [sea-intro]
+    What seawater is made of                       [seawater]
+
+  [habitats]
+    Coral reefs: the rainforests of the sea        [coral-reefs]
+    Estuaries: where rivers meet the sea           [estuaries]
+    Hydrothermal vents: life without sunlight      [vents-chemo]
+    Kelp forests of the cool seas                  [kelp]
+    Mangroves and seagrass meadows                 [mangroves-seagrass]
+    Polar seas and the power of ice                [polar-seas]
+    The deep sea: cold, dark, and under pressure   [deep-sea]
+    The intertidal: life between the tides         [intertidal]
+    The open ocean: Earth's largest habitat        [open-ocean]
+    Whale falls: an oasis on the seafloor          [whale-fall]
+
+  [methods]
+    A short history of marine biology              [history]
+    Becoming a marine biologist                    [careers]
+    How marine biologists actually do science      [scientific-method]
+    The marine biologist's toolkit                 [tools]
+
+  [organisms]
+    Cephalopod intelligence: minds in the arms     [cephalopod-minds]
+    Echinoderms and marine worms                   [echinoderms-worms]
+    Fishes: the vertebrate majority                [fishes]
+    Marine arthropods: the crustaceans             [arthropods]
+    Marine mammals                                 [mammals]
+    Marine microbes and viruses                    [microbes]
+    Marine plants: seagrasses and mangroves        [plants]
+    Marine reptiles and seabirds                   [reptiles-birds]
+    Mollusks: snails, clams and cephalopods        [mollusks]
+    Protists and algae                             [protists-algae]
+    Sharks, rays, and chimaeras                    [sharks-rays]
+    Sponges and cnidarians                         [sponges-cnidarians]
+    The tree of marine life                        [life-domains]
+
+  [physiology]
+    Buoyancy, gas, and the diving problem          [buoyancy-gas]
+    Living light: bioluminescence                  [light-biolum]
+    Reproduction and life cycles in the sea        [reproduction]
+    Sea turtles: magnetic maps and long journeys   [turtle-journeys]
+    Senses and movement underwater                 [senses-movement]
+    Shark senses: the electric sixth sense         [shark-senses]
+    Staying balanced: salt and water in the body   [osmoregulation]
+
+========================================================================
+SUMMARY: 444 species photos needed; 57 concept scenes (optional). Total 501 lessons.
+========================================================================

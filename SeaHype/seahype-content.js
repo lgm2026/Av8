@@ -1,0 +1,166 @@
+/* SeaHype reference content: glossary, pronunciation, taxonomy, concepts,
+   careers, history timeline, and progress milestones. Plain data merged at
+   build time. */
+
+window.__SEA_GLOSSARY__ = (window.__SEA_GLOSSARY__ || []).concat([
+  { term: "Abyssal zone", cat: "Habitats", def: "The deep-ocean floor environment roughly 4,000–6,000 m down: cold, dark and high-pressure." },
+  { term: "Algae", cat: "Organisms", def: "Photosynthetic, mostly aquatic organisms ranging from single cells to giant kelp; not true plants." },
+  { term: "Aquaculture", cat: "Conservation", def: "Farming aquatic organisms; in 2022 it overtook wild capture in seafood production." },
+  { term: "Atoll", cat: "Habitats", def: "A ring-shaped coral reef enclosing a lagoon, formed as a volcanic island subsides." },
+  { term: "Benthic", cat: "Habitats", def: "Associated with the seafloor or bottom, as opposed to the open water (pelagic)." },
+  { term: "Benthos", cat: "Ecology", def: "The community of organisms living on or in the seafloor." },
+  { term: "Bioluminescence", cat: "Physiology", def: "Light produced by a living organism through a chemical reaction; common in the deep sea." },
+  { term: "Blue carbon", cat: "Conservation", def: "Carbon captured and stored by coastal ecosystems such as mangroves, seagrasses and salt marshes." },
+  { term: "Brackish", cat: "Habitats", def: "Water of intermediate salinity between fresh and full-strength seawater, typical of estuaries." },
+  { term: "Bycatch", cat: "Conservation", def: "The unintended capture of non-target species such as turtles, dolphins or seabirds during fishing." },
+  { term: "Calcifier", cat: "Conservation", def: "An organism that builds shells or skeletons of calcium carbonate, such as corals and shellfish." },
+  { term: "Carrying capacity", cat: "Ecology", def: "The maximum population a habitat can support given its resources." },
+  { term: "Chemosynthesis", cat: "Ecology", def: "Making food from chemical energy (e.g. hydrogen sulfide) rather than sunlight, as at hydrothermal vents." },
+  { term: "Cnidarian", cat: "Organisms", def: "An animal of the group that includes jellyfish, corals and anemones, all armed with stinging cells." },
+  { term: "Continental shelf", cat: "Habitats", def: "The shallow, gently sloping submerged edge of a continent, among the most productive ocean areas." },
+  { term: "Coral bleaching", cat: "Conservation", def: "Loss of symbiotic algae under stress (often heat), turning coral white and threatening starvation." },
+  { term: "Coral polyp", cat: "Organisms", def: "The individual cnidarian animal whose limestone skeletons build a coral reef." },
+  { term: "CTD", cat: "Methods", def: "An instrument that profiles conductivity (salinity), temperature and depth through the water column." },
+  { term: "Decomposer", cat: "Ecology", def: "An organism, often bacteria, that breaks down dead material and recycles nutrients." },
+  { term: "Deep sea", cat: "Foundations", def: "Ocean deeper than about 200 m — over 90% of the ocean by volume; cold, dark and high-pressure." },
+  { term: "Desiccation", cat: "Habitats", def: "Drying out — a major danger for intertidal organisms exposed at low tide." },
+  { term: "Detritus", cat: "Ecology", def: "Dead organic material that feeds many bottom-dwelling and filter-feeding animals." },
+  { term: "Diel vertical migration", cat: "Ecology", def: "The daily movement of plankton and small animals up to the surface at night and down by day." },
+  { term: "eDNA", cat: "Methods", def: "Environmental DNA shed into the water, used to detect which species are present without seeing them." },
+  { term: "Estuary", cat: "Habitats", def: "A coastal zone where river fresh water mixes with ocean salt water; highly productive nursery habitat." },
+  { term: "Euryhaline", cat: "Physiology", def: "Able to tolerate a wide range of salinities, as estuarine animals must." },
+  { term: "Eutrophication", cat: "Conservation", def: "Nutrient over-enrichment that fuels algal blooms whose decay can create low-oxygen dead zones." },
+  { term: "Filter feeder", cat: "Organisms", def: "An animal that strains small food particles from the water, such as a sponge, clam or baleen whale." },
+  { term: "Food web", cat: "Ecology", def: "The interconnected feeding relationships through which energy and nutrients move in an ecosystem." },
+  { term: "Holdfast", cat: "Organisms", def: "The root-like structure anchoring kelp to rock; unlike roots it does not absorb nutrients." },
+  { term: "Hydrothermal vent", cat: "Habitats", def: "A seafloor hot spring where chemosynthetic communities thrive without sunlight." },
+  { term: "Hypoxia", cat: "Conservation", def: "Dangerously low dissolved oxygen; severe hypoxic areas are called dead zones." },
+  { term: "Intertidal zone", cat: "Habitats", def: "The shore between the highest and lowest tides, alternately submerged and exposed." },
+  { term: "Keystone species", cat: "Ecology", def: "A species with a disproportionately large effect on its community, such as the sea otter." },
+  { term: "Kelp", cat: "Organisms", def: "A large brown alga that forms underwater forests in cool, nutrient-rich seas." },
+  { term: "Marine protected area (MPA)", cat: "Conservation", def: "An ocean area where harmful activities are limited to conserve nature." },
+  { term: "Marine snow", cat: "Ecology", def: "The slow fall of organic particles from the surface that feeds much of the deep sea." },
+  { term: "Metamorphosis", cat: "Physiology", def: "The transformation from larva to adult form, often occurring at settlement." },
+  { term: "Microplastics", cat: "Conservation", def: "Tiny plastic fragments found throughout the ocean and the food web." },
+  { term: "Mutualism", cat: "Ecology", def: "A symbiosis in which both species benefit, as with clownfish and their anemone." },
+  { term: "Nekton", cat: "Ecology", def: "Animals that swim strongly enough to move independently of currents, such as fish and whales." },
+  { term: "Osmoregulation", cat: "Physiology", def: "Controlling the balance of salt and water in the body, a key challenge for aquatic life." },
+  { term: "Pelagic", cat: "Habitats", def: "Of the open water column, away from the coast and the bottom." },
+  { term: "pH", cat: "Conservation", def: "A scale of acidity; lower pH is more acidic. Surface ocean pH has fallen about 0.1 unit since pre-industrial times." },
+  { term: "Photosynthesis", cat: "Ecology", def: "Using light energy to build food (sugars) from carbon dioxide and water, releasing oxygen." },
+  { term: "Phytoplankton", cat: "Ecology", def: "Microscopic drifting algae; the base of most ocean food webs and a major source of oxygen." },
+  { term: "Plankton", cat: "Ecology", def: "Organisms that drift with the currents, including phytoplankton and zooplankton." },
+  { term: "Primary producer", cat: "Ecology", def: "An organism that makes its own food, usually by photosynthesis, forming the base of the food web." },
+  { term: "Salinity", cat: "Foundations", def: "The amount of dissolved salt in water; ocean average is about 35 parts per thousand." },
+  { term: "Seagrass", cat: "Organisms", def: "A marine flowering plant forming rooted underwater meadows; not an alga." },
+  { term: "Symbiosis", cat: "Ecology", def: "A close, long-term relationship between species; includes mutualism, commensalism and parasitism." },
+  { term: "Trophic level", cat: "Ecology", def: "A feeding rank in a food chain, from producers up through successive consumers." },
+  { term: "Upwelling", cat: "Foundations", def: "Wind-driven rise of cold, nutrient-rich deep water to the surface, fueling highly productive seas." },
+  { term: "Zonation", cat: "Habitats", def: "The banding of organisms by height on the shore or depth in the sea, set by stress and competition." },
+  { term: "Zooplankton", cat: "Ecology", def: "Animal plankton that graze on phytoplankton and link producers to larger animals." },
+  { term: "Zooxanthellae", cat: "Organisms", def: "Photosynthetic algae living inside coral tissue that supply most of the coral's food." }
+]);
+
+window.__SEA_PRON__ = (window.__SEA_PRON__ || []).concat([
+  { term: "Cnidarian", say: "nye-DAIR-ee-un", note: "The leading 'c' is silent." },
+  { term: "Cnidaria", say: "nye-DAIR-ee-uh", note: "The phylum of jellyfish, corals and anemones." },
+  { term: "Zooxanthellae", say: "zoh-uh-zan-THEL-ee", note: "The algae living inside corals." },
+  { term: "Phytoplankton", say: "FY-toh-plank-tun", note: "'Phyto' means plant-like." },
+  { term: "Zooplankton", say: "ZOH-uh-plank-tun", note: "'Zoo' means animal." },
+  { term: "Echinoderm", say: "ee-KY-noh-durm", note: "Means 'spiny skin' — sea stars, urchins." },
+  { term: "Echinodermata", say: "ee-ky-noh-DER-muh-tuh", note: "The phylum of sea stars and urchins." },
+  { term: "Cetacean", say: "seh-TAY-shun", note: "Whales, dolphins and porpoises." },
+  { term: "Pinniped", say: "PIN-ih-ped", note: "Seals, sea lions and walruses." },
+  { term: "Sirenian", say: "sy-REE-nee-un", note: "Manatees and dugongs." },
+  { term: "Nudibranch", say: "NOO-dih-brank", note: "A shell-less sea slug; the 'ch' sounds like 'k'." },
+  { term: "Copepod", say: "KOH-puh-pod", note: "Among the most abundant animals on Earth." },
+  { term: "Benthic", say: "BEN-thik", note: "Living on or in the seafloor." },
+  { term: "Pelagic", say: "peh-LAJ-ik", note: "Living in the open water column." },
+  { term: "Hypoxia", say: "hy-POK-see-uh", note: "Low dissolved oxygen." },
+  { term: "Eutrophication", say: "yoo-troh-fih-KAY-shun", note: "Nutrient over-enrichment of water." },
+  { term: "Chemosynthesis", say: "kee-moh-SIN-thuh-sis", note: "Making food from chemicals, not light." },
+  { term: "Bioluminescence", say: "by-oh-loo-mih-NEH-suns", note: "Living light." },
+  { term: "Osmoregulation", say: "oz-moh-reg-yoo-LAY-shun", note: "Balancing salt and water in the body." },
+  { term: "Diatom", say: "DY-uh-tom", note: "A glass-shelled phytoplankton." },
+  { term: "Dinoflagellate", say: "dy-noh-FLAJ-uh-lut", note: "A flagellated plankton; some cause red tides." },
+  { term: "Foraminifera", say: "fuh-ram-ih-NIF-er-uh", note: "Shelled single-celled protists ('forams')." },
+  { term: "Detritus", say: "dih-TRY-tus", note: "Dead organic material." },
+  { term: "Estuary", say: "ES-choo-air-ee", note: "Where a river meets the sea." },
+  { term: "Salinity", say: "suh-LIN-ih-tee", note: "Saltiness of water." },
+  { term: "Porifera", say: "poh-RIF-er-uh", note: "The phylum of sponges." },
+  { term: "Crustacea", say: "kruh-STAY-shuh", note: "Crabs, shrimp, krill and copepods." },
+  { term: "Ampullae of Lorenzini", say: "am-PUL-ee of lor-en-ZEE-nee", note: "A shark's electricity-sensing organs." }
+]);
+
+window.__SEA_TAXONOMY__ = (window.__SEA_TAXONOMY__ || []).concat([
+  { group: "Bacteria & Archaea", rank: "Domains", examples: "Cyanobacteria, vent archaea", note: "The most abundant ocean life; cyanobacteria are major oxygen producers." },
+  { group: "Protists", rank: "Eukaryotic single cells", examples: "Diatoms, dinoflagellates, foraminifera", note: "Drifting protists include the ocean's most important phytoplankton." },
+  { group: "Algae (seaweeds)", rank: "Several groups", examples: "Green, brown (kelp), red algae", note: "Photosynthetic but not true plants; brown algae include the giant kelps." },
+  { group: "Marine plants", rank: "Flowering plants", examples: "Seagrasses, mangroves", note: "True flowering plants that returned to or tolerate the sea." },
+  { group: "Porifera", rank: "Phylum", examples: "Sponges", note: "The simplest animals; sessile filter feeders with no true tissues." },
+  { group: "Cnidaria", rank: "Phylum", examples: "Jellyfish, corals, anemones, hydroids", note: "Defined by stinging cells; reef corals build entire ecosystems." },
+  { group: "Ctenophora", rank: "Phylum", examples: "Comb jellies", note: "Superficially jelly-like but a separate group; swim with rows of beating combs." },
+  { group: "Mollusca", rank: "Phylum", examples: "Snails, clams, octopus, squid, nudibranchs", note: "A vast group; cephalopods are the most intelligent invertebrates." },
+  { group: "Annelida", rank: "Phylum", examples: "Polychaete worms, tubeworms", note: "Segmented worms abundant in sediments and at hydrothermal vents." },
+  { group: "Arthropoda (Crustacea)", rank: "Phylum / subphylum", examples: "Crabs, shrimp, krill, copepods, barnacles", note: "Marine crustaceans are staggeringly numerous; copepods may be the most abundant animals on Earth." },
+  { group: "Echinodermata", rank: "Phylum", examples: "Sea stars, urchins, sea cucumbers, brittle stars", note: "Five-fold symmetric animals found only in the sea, with a unique water-vascular system." },
+  { group: "Invertebrate chordates", rank: "Subphyla of Chordata", examples: "Tunicates (sea squirts), lancelets", note: "Chordates without backbones; clues to vertebrate origins." },
+  { group: "Fishes", rank: "Several classes", examples: "Hagfish/lampreys; sharks & rays; bony fishes", note: "Jawless, cartilaginous and bony fishes; bony ray-finned fishes are the most diverse vertebrates." },
+  { group: "Marine reptiles", rank: "Class Reptilia (marine members)", examples: "Sea turtles, sea snakes, marine iguana, saltwater crocodile", note: "Air-breathing reptiles adapted to marine life; all sea turtles are threatened or endangered." },
+  { group: "Seabirds", rank: "Class Aves (marine members)", examples: "Penguins, albatrosses, gulls, petrels", note: "Birds that feed at sea; many travel enormous distances and dive for food." },
+  { group: "Marine mammals", rank: "Class Mammalia (marine members)", examples: "Whales & dolphins, seals & sea lions, manatees & dugongs, sea otters, polar bears", note: "Warm-blooded air-breathers; includes the blue whale, the largest animal ever known." }
+]);
+
+window.__SEA_CONCEPTS__ = (window.__SEA_CONCEPTS__ || []).concat([
+  { title: "One global ocean", body: "The five named basins are regions of a single connected body of water. Currents, heat, salt and life move among them, so the ocean behaves as one system that regulates climate, weather and the oxygen and carbon cycles.", src: "noaa" },
+  { title: "Primary production", body: "Drifting phytoplankton and other algae use sunlight to turn carbon dioxide and water into food and oxygen. This primary production, concentrated in the sunlit surface, is the foundation that feeds nearly all ocean life.", src: "nasa" },
+  { title: "Food webs and energy flow", body: "Energy passes from producers to grazers to predators, losing most of itself at each step. That inefficiency is why top predators are rare and why the base of the web — plankton — must be enormous.", src: "si" },
+  { title: "Symbiosis", body: "Many ocean relationships are partnerships. Mutualism benefits both (coral and its algae), commensalism benefits one harmlessly, and parasitism benefits one at the other's cost. Symbiosis shapes who can live where.", src: "si" },
+  { title: "Depth zones", body: "Light, temperature and pressure change dramatically with depth, dividing the ocean into layers — the sunlit surface, the dim twilight zone, and the dark deep sea — each with its own specialized life.", src: "noaa" },
+  { title: "Adaptation", body: "Life solves the ocean's challenges — salt balance, buoyancy, darkness, pressure, cold — with specialized adaptations such as swim bladders, antifreeze, bioluminescence and efficient salt glands.", src: "si" },
+  { title: "Biodiversity and the unknown ocean", body: "More than 250,000 marine species have been described, with about two thousand new ones added each year, yet most ocean life — especially in the deep sea — remains undiscovered.", src: "worms" },
+  { title: "The carbon and oxygen connection", body: "The ocean produces a large share of Earth's oxygen and absorbs most of the excess heat and much of the carbon dioxide from human emissions, tightly linking ocean health to the climate.", src: "noaa" },
+  { title: "Keystone species and trophic cascades", body: "A few influential species can control whole ecosystems. Remove sea otters and urchins overgraze kelp forests into barrens; restore the predator and the forest returns — a trophic cascade.", src: "noaa" },
+  { title: "Chemosynthesis", body: "At hydrothermal vents and seeps, microbes draw energy from chemicals instead of sunlight, supporting dense communities and proving that abundant life can exist in total darkness.", src: "noaaoe" }
+]);
+
+window.__SEA_CAREERS__ = (window.__SEA_CAREERS__ || []).concat([
+  { role: "Research scientist", what: "Designs and runs studies on ocean life at universities and institutes, then publishes the findings.", path: "Bachelor's in marine biology or biology, then a master's or PhD; strong field, lab and quantitative skills.", src: "si" },
+  { role: "Fisheries scientist", what: "Assesses fish stocks and advises on sustainable catch limits and management.", path: "Degree in marine/fisheries science with heavy statistics; often graduate study and agency or industry experience.", src: "noaafish" },
+  { role: "Marine conservation specialist", what: "Works to protect species and habitats through policy, advocacy and on-the-ground projects.", path: "Degree in marine biology, ecology or environmental policy; internships with NGOs or agencies help greatly.", src: "iucn" },
+  { role: "Aquarist", what: "Cares for living animals and exhibits at public aquariums, supporting education and conservation.", path: "Biology or zoology background, hands-on animal-care experience, and often a diving certification." , src: "si" },
+  { role: "Marine educator", what: "Teaches the public, students and communities about the ocean in schools, aquariums and programs.", path: "Science background plus communication and teaching experience; outreach internships are valuable.", src: "noaaedu" },
+  { role: "Aquaculture specialist", what: "Develops and manages the farming of fish, shellfish or seaweed sustainably.", path: "Degree in aquaculture, marine biology or related field; practical farm and water-quality experience.", src: "fao" },
+  { role: "Environmental consultant", what: "Advises on coastal and marine projects, assessing impacts and guiding compliance.", path: "Marine science or environmental degree; project, survey and regulatory experience.", src: "noaa" },
+  { role: "Biological oceanographer", what: "Studies how ocean life interacts with the physics and chemistry of the sea.", path: "Strong math and science foundation; graduate study in oceanography; sea-going research experience.", src: "whoi" },
+  { role: "Marine veterinarian", what: "Provides medical care for marine animals in aquariums, rescue centers and the wild.", path: "Veterinary degree plus specialized training in aquatic and marine animal medicine.", src: "si" },
+  { role: "Ocean data scientist", what: "Analyzes large datasets — from satellites, sensors and tags — to reveal patterns in ocean life.", path: "Marine science plus strong statistics and coding; increasingly central to the whole field.", src: "noaaoe" }
+]);
+
+window.__SEA_HISTORY__ = (window.__SEA_HISTORY__ || []).concat([
+  { year: "c. 350 BCE", title: "Aristotle describes sea life", body: "The Greek philosopher catalogs and classifies marine animals, among the first systematic studies of ocean life." },
+  { year: "1831–1836", title: "Darwin's voyage on HMS Beagle", body: "Observations at sea lead Charles Darwin to his theory of how coral atolls form as islands subside." },
+  { year: "1872–1876", title: "The HMS Challenger expedition", body: "A round-the-world voyage systematically samples the deep sea and discovers thousands of new species — widely called the birth of oceanography." },
+  { year: "1934", title: "The bathysphere dives deep", body: "William Beebe and Otis Barton descend in a steel sphere to depths never before reached by people, observing deep-sea life directly." },
+  { year: "1943", title: "The aqualung is invented", body: "Jacques Cousteau and Émile Gagnan develop modern self-contained diving gear (SCUBA), opening shallow seas to direct study." },
+  { year: "1960", title: "Reaching the deepest sea", body: "The bathyscaphe Trieste carries Jacques Piccard and Don Walsh to the bottom of the Mariana Trench, the deepest point in the ocean." },
+  { year: "1964", title: "The submersible Alvin launches", body: "A small crewed research submersible begins decades of deep-sea discovery." },
+  { year: "1977", title: "Hydrothermal vents discovered", body: "Scientists diving in Alvin find vent ecosystems powered by chemosynthesis, revealing abundant life without sunlight." },
+  { year: "2000–2010", title: "Census of Marine Life", body: "A global, decade-long collaboration catalogs ocean biodiversity and, with new molecular tools, transforms how species are identified." },
+  { year: "2020s", title: "Mapping and exploring the deep", body: "International efforts race to map the seafloor and explore the deep sea, yet most of it remains unseen — marine biology is still a frontier." }
+]);
+
+/* Milestones unlock as the learner completes lessons. 'need' = number of
+   lessons completed. The engine compares it to the learner's completed count. */
+window.__SEA_MILESTONES__ = (window.__SEA_MILESTONES__ || []).concat([
+  { id: "first-dive", need: 1, title: "First Dive", blurb: "You finished your first lesson. The ocean covers about 71% of Earth — you have a lot of water to explore.", cite: "NOAA Ocean Service" },
+  { id: "snorkeler", need: 3, title: "Snorkeler", blurb: "Three lessons down. You are getting comfortable at the surface where most ocean food is made.", cite: "NASA Earth Observatory" },
+  { id: "free-diver", need: 5, title: "Free Diver", blurb: "Five lessons! You can hold your breath through the basics of seawater, light and pressure.", cite: "NOAA" },
+  { id: "reef-explorer", need: 10, title: "Reef Explorer", blurb: "Ten lessons. Reefs cover under 1% of the seafloor but shelter about a quarter of marine species — and you are starting to see why.", cite: "NOAA Coral Reef" },
+  { id: "naturalist", need: 15, title: "Naturalist", blurb: "Fifteen lessons. You can now connect producers, grazers and predators into a working food web.", cite: "Smithsonian Ocean" },
+  { id: "taxonomist", need: 20, title: "Taxonomist", blurb: "Twenty lessons. From microbes to mammals, the tree of marine life is taking shape in your mind.", cite: "WoRMS" },
+  { id: "field-biologist", need: 27, title: "Field Biologist", blurb: "Twenty-seven lessons — the whole survey of marine life. You think in groups, traits and relationships now.", cite: "Encyclopedia of Life" },
+  { id: "deep-diver", need: 35, title: "Deep Diver", blurb: "Thirty-five lessons. You have followed life into the dark deep sea, where most of the biosphere lives.", cite: "NOAA Ocean Exploration" },
+  { id: "ocean-steward", need: 42, title: "Ocean Steward", blurb: "Forty-two lessons. You understand the threats — and the real, proven paths to recovery.", cite: "NOAA / IUCN" },
+  { id: "marine-biologist", need: 49, title: "Marine Biologist", blurb: "Every lesson complete. You have a true generalist's map of the ocean, from chemistry to careers. The frontier is yours.", cite: "SeaHype" }
+]);
