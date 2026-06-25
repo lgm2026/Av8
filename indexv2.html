@@ -1,0 +1,556 @@
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>freelearning.online</title>
+    <meta name="description" content="freelearning.online" />
+
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9258275639543826"
+      crossorigin="anonymous"
+    ></script>
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Arial, sans-serif;
+        color: #ffffff;
+        background:
+          radial-gradient(circle at 12% 16%, rgba(96, 165, 250, 0.38), transparent 28%),
+          radial-gradient(circle at 85% 12%, rgba(45, 212, 191, 0.24), transparent 30%),
+          radial-gradient(circle at 50% 90%, rgba(14, 165, 233, 0.18), transparent 34%),
+          linear-gradient(135deg, #020817 0%, #061427 52%, #00151d 100%);
+        overflow-x: hidden;
+      }
+
+      body::before,
+      body::after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+      }
+
+      body::before {
+        background-image:
+          radial-gradient(1px 1px at 12% 22%, rgba(255,255,255,.72), transparent),
+          radial-gradient(1px 1px at 28% 64%, rgba(255,255,255,.52), transparent),
+          radial-gradient(1px 1px at 51% 18%, rgba(255,255,255,.64), transparent),
+          radial-gradient(1px 1px at 72% 42%, rgba(255,255,255,.5), transparent),
+          radial-gradient(1px 1px at 89% 70%, rgba(255,255,255,.62), transparent);
+        animation: twinkle 4s ease-in-out infinite alternate;
+      }
+
+      body::after {
+        background:
+          linear-gradient(115deg, transparent 0%, rgba(255,255,255,.08) 48%, transparent 56%);
+        transform: translateX(-120%);
+        animation: sheen 9s ease-in-out infinite;
+      }
+
+      @keyframes twinkle {
+        from { opacity: .48; }
+        to { opacity: .95; }
+      }
+
+      @keyframes sheen {
+        0%, 58% { transform: translateX(-120%); }
+        78%, 100% { transform: translateX(120%); }
+      }
+
+      .sky-plane {
+        position: fixed;
+        top: 12%;
+        left: -120px;
+        z-index: 1;
+        font-size: clamp(28px, 4vw, 46px);
+        filter: drop-shadow(0 12px 22px rgba(0,0,0,.35));
+        animation: flyby 14s linear infinite;
+        pointer-events: none;
+      }
+
+      @keyframes flyby {
+        0% { transform: translateX(-140px) translateY(0) rotate(9deg); opacity: 0; }
+        8% { opacity: .95; }
+        50% { transform: translateX(55vw) translateY(-28px) rotate(3deg); }
+        92% { opacity: .95; }
+        100% { transform: translateX(calc(100vw + 160px)) translateY(10px) rotate(8deg); opacity: 0; }
+      }
+
+      .wave {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: -1px;
+        height: 120px;
+        z-index: 1;
+        pointer-events: none;
+        opacity: .78;
+        background:
+          radial-gradient(80px 36px at 10% 36px, rgba(20, 184, 166, .22), transparent 72%),
+          radial-gradient(110px 42px at 32% 48px, rgba(59, 130, 246, .2), transparent 72%),
+          radial-gradient(90px 38px at 70% 36px, rgba(45, 212, 191, .2), transparent 72%),
+          linear-gradient(180deg, transparent 0%, rgba(4, 47, 67, .9) 72%);
+        animation: waves 7s ease-in-out infinite alternate;
+      }
+
+      @keyframes waves {
+        from { transform: translateY(0); }
+        to { transform: translateY(16px); }
+      }
+
+      main {
+        position: relative;
+        z-index: 2;
+        width: min(1120px, calc(100% - 32px));
+        min-height: 100vh;
+        margin: 0 auto;
+        padding: clamp(28px, 5vw, 58px) 0 150px;
+        display: grid;
+        place-items: center;
+      }
+
+      .panel {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        border-radius: clamp(28px, 5vw, 46px);
+        background:
+          linear-gradient(135deg, rgba(255,255,255,.12), rgba(255,255,255,.04)),
+          rgba(5, 17, 34, 0.72);
+        box-shadow:
+          0 34px 110px rgba(0, 0, 0, 0.48),
+          inset 0 1px 0 rgba(255, 255, 255, 0.16);
+        backdrop-filter: blur(22px);
+        -webkit-backdrop-filter: blur(22px);
+      }
+
+      .panel::before {
+        content: "";
+        position: absolute;
+        width: 340px;
+        height: 340px;
+        border-radius: 999px;
+        right: -140px;
+        top: -120px;
+        background: rgba(96, 165, 250, 0.18);
+        filter: blur(4px);
+        animation: floatGlow 6s ease-in-out infinite alternate;
+      }
+
+      .panel::after {
+        content: "";
+        position: absolute;
+        width: 280px;
+        height: 280px;
+        border-radius: 999px;
+        left: -130px;
+        bottom: -120px;
+        background: rgba(20, 184, 166, 0.16);
+        filter: blur(4px);
+        animation: floatGlow 8s ease-in-out infinite alternate-reverse;
+      }
+
+      @keyframes floatGlow {
+        from { transform: translate3d(0, 0, 0) scale(1); }
+        to { transform: translate3d(16px, 18px, 0) scale(1.08); }
+      }
+
+      .inner {
+        position: relative;
+        z-index: 2;
+        padding: clamp(30px, 7vw, 76px);
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0 0 clamp(30px, 5vw, 54px);
+        font-size: clamp(44px, 8vw, 104px);
+        line-height: .92;
+        letter-spacing: -0.075em;
+        text-shadow: 0 18px 42px rgba(0,0,0,.42);
+      }
+
+      .buttons {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: clamp(18px, 3vw, 30px);
+      }
+
+      .button {
+        --accent: #60a5fa;
+        position: relative;
+        min-height: clamp(150px, 18vw, 210px);
+        display: grid;
+        place-items: center;
+        padding: 30px;
+        border-radius: 34px;
+        border: 1px solid rgba(255,255,255,.22);
+        color: #ffffff;
+        text-decoration: none;
+        font-size: clamp(36px, 5vw, 64px);
+        font-weight: 950;
+        letter-spacing: -0.055em;
+        background:
+          radial-gradient(circle at 24% 20%, color-mix(in srgb, var(--accent), white 12%) 0%, transparent 32%),
+          linear-gradient(180deg, rgba(255,255,255,.15), rgba(255,255,255,.055));
+        box-shadow:
+          inset 0 1px 0 rgba(255,255,255,.18),
+          0 18px 44px rgba(0,0,0,.22);
+        overflow: hidden;
+        isolation: isolate;
+        transform: translateY(0);
+        transition:
+          transform .22s ease,
+          border-color .22s ease,
+          box-shadow .22s ease,
+          background .22s ease;
+      }
+
+      .button span {
+        position: relative;
+        z-index: 3;
+      }
+
+      .button::before {
+        content: "";
+        position: absolute;
+        inset: -40%;
+        z-index: 1;
+        background:
+          linear-gradient(115deg, transparent 35%, rgba(255,255,255,.38), transparent 62%);
+        transform: translateX(-80%);
+        opacity: 0;
+      }
+
+      .button::after {
+        position: absolute;
+        z-index: 2;
+        font-size: clamp(34px, 5vw, 62px);
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .button.av8 {
+        --accent: #3b82f6;
+      }
+
+      .button.sea {
+        --accent: #14b8a6;
+      }
+
+      .button.av8::after {
+        content: "✈️";
+        left: -70px;
+        top: 18%;
+        transform: rotate(8deg);
+      }
+
+      .button.sea::after {
+        content: "🐬";
+        left: -70px;
+        bottom: 22%;
+      }
+
+      .button:hover,
+      .button:focus-visible {
+        transform: translateY(-8px) scale(1.015);
+        border-color: color-mix(in srgb, var(--accent), white 38%);
+        box-shadow:
+          inset 0 1px 0 rgba(255,255,255,.24),
+          0 26px 70px color-mix(in srgb, var(--accent), transparent 65%);
+        outline: none;
+      }
+
+      .button:hover::before,
+      .button:focus-visible::before {
+        opacity: 1;
+        animation: buttonShine .75s ease forwards;
+      }
+
+      .button.av8:hover::after,
+      .button.av8:focus-visible::after {
+        opacity: 1;
+        animation: planeAcross 1.15s ease-out forwards;
+      }
+
+      .button.sea:hover::after,
+      .button.sea:focus-visible::after {
+        opacity: 1;
+        animation: dolphinJump 1.1s ease-out forwards;
+      }
+
+      @keyframes buttonShine {
+        from { transform: translateX(-80%); }
+        to { transform: translateX(80%); }
+      }
+
+      @keyframes planeAcross {
+        0% { transform: translateX(0) translateY(18px) rotate(12deg); opacity: 0; }
+        18% { opacity: 1; }
+        100% { transform: translateX(430px) translateY(-36px) rotate(3deg); opacity: 0; }
+      }
+
+      @keyframes dolphinJump {
+        0% { transform: translateX(0) translateY(24px) rotate(-10deg); opacity: 0; }
+        20% { opacity: 1; }
+        52% { transform: translateX(210px) translateY(-64px) rotate(18deg); opacity: 1; }
+        100% { transform: translateX(430px) translateY(24px) rotate(28deg); opacity: 0; }
+      }
+
+      .coming-soon {
+        margin: clamp(26px, 5vw, 46px) auto 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+      }
+
+      .pill {
+        padding: 10px 14px;
+        border-radius: 999px;
+        border: 1px solid rgba(255,255,255,.14);
+        background: rgba(255,255,255,.07);
+        color: rgba(235, 245, 255, .84);
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: .02em;
+      }
+
+      .ad-wrap {
+        margin: clamp(26px, 5vw, 46px) auto 0;
+        width: min(728px, 100%);
+        min-height: 96px;
+        display: grid;
+        place-items: center;
+        border-radius: 24px;
+        border: 1px dashed rgba(255,255,255,.22);
+        background: rgba(255,255,255,.045);
+        overflow: hidden;
+      }
+
+      .ad-label {
+        color: rgba(214, 229, 245, .52);
+        font-size: 12px;
+        letter-spacing: .16em;
+        text-transform: uppercase;
+      }
+
+      details {
+        margin: clamp(26px, 5vw, 46px) auto 0;
+        width: min(728px, 100%);
+        border-radius: 24px;
+        border: 1px solid rgba(255,255,255,.16);
+        background: rgba(255,255,255,.06);
+        text-align: left;
+        overflow: hidden;
+      }
+
+      summary {
+        cursor: pointer;
+        padding: 20px 22px;
+        list-style: none;
+        font-size: 18px;
+        font-weight: 900;
+        color: #ffffff;
+      }
+
+      summary::-webkit-details-marker {
+        display: none;
+      }
+
+      summary::after {
+        content: "+";
+        float: right;
+        color: #93c5fd;
+        font-size: 24px;
+        line-height: 1;
+      }
+
+      details[open] summary::after {
+        content: "–";
+      }
+
+      .contact-body {
+        padding: 0 22px 22px;
+      }
+
+      form {
+        display: grid;
+        gap: 12px;
+      }
+
+      input,
+      textarea {
+        width: 100%;
+        border: 1px solid rgba(255,255,255,.18);
+        border-radius: 16px;
+        background: rgba(2, 8, 23, .55);
+        color: #ffffff;
+        padding: 14px 15px;
+        font: inherit;
+        outline: none;
+      }
+
+      textarea {
+        min-height: 130px;
+        resize: vertical;
+      }
+
+      input:focus,
+      textarea:focus {
+        border-color: rgba(147, 197, 253, .75);
+        box-shadow: 0 0 0 4px rgba(59, 130, 246, .18);
+      }
+
+      .send {
+        border: 0;
+        border-radius: 16px;
+        padding: 14px 18px;
+        background: linear-gradient(135deg, #2563eb, #14b8a6);
+        color: #ffffff;
+        font: inherit;
+        font-weight: 950;
+        cursor: pointer;
+        transition: transform .18s ease, filter .18s ease;
+      }
+
+      .send:hover,
+      .send:focus-visible {
+        transform: translateY(-2px);
+        filter: brightness(1.12);
+        outline: none;
+      }
+
+      @media (max-width: 720px) {
+        main {
+          width: min(100% - 24px, 1120px);
+          padding-top: 22px;
+        }
+
+        .inner {
+          padding: 26px 18px;
+        }
+
+        .buttons {
+          grid-template-columns: 1fr;
+        }
+
+        .button {
+          min-height: 126px;
+        }
+
+        .coming-soon {
+          gap: 8px;
+        }
+
+        .pill {
+          font-size: 12px;
+          padding: 8px 10px;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          animation-duration: .01ms !important;
+          animation-iteration-count: 1 !important;
+          scroll-behavior: auto !important;
+          transition: none !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="sky-plane">✈️</div>
+    <div class="wave"></div>
+
+    <main>
+      <section class="panel">
+        <div class="inner">
+          <h1>freelearning.online</h1>
+
+          <div class="buttons">
+            <a class="button av8" href="Av8/"><span>Av8</span></a>
+            <a class="button sea" href="SeaHype/"><span>SeaHype</span></a>
+          </div>
+
+          <div class="coming-soon" aria-label="Coming soon">
+            <span class="pill">More coming soon</span>
+            <span class="pill">New lessons</span>
+            <span class="pill">More tools</span>
+          </div>
+
+          <div class="ad-wrap" aria-label="Advertisement">
+            <ins
+              class="adsbygoogle"
+              style="display: block; width: 100%;"
+              data-ad-client="ca-pub-9258275639543826"
+              data-ad-slot="PASTE_YOUR_AD_SLOT_HERE"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+            <script>
+              try {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+              } catch (e) {
+                document.currentScript.parentElement.innerHTML =
+                  '<span class="ad-label">Ad space</span>';
+              }
+            </script>
+          </div>
+
+          <details>
+            <summary>Contact</summary>
+            <div class="contact-body">
+              <form id="contactForm">
+                <input id="contactName" name="name" type="text" placeholder="Name" />
+                <input id="contactEmail" name="email" type="email" placeholder="Email" />
+                <textarea id="contactMessage" name="message" placeholder="Message"></textarea>
+                <button class="send" type="submit">Send</button>
+              </form>
+            </div>
+          </details>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      document.getElementById("contactForm").addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        var name = document.getElementById("contactName").value.trim();
+        var email = document.getElementById("contactEmail").value.trim();
+        var message = document.getElementById("contactMessage").value.trim();
+
+        var subject = encodeURIComponent("freelearning.online contact");
+        var body = encodeURIComponent(
+          "Name: " + name + "\n" +
+          "Email: " + email + "\n\n" +
+          message
+        );
+
+        window.location.href = "mailto:michelle@michellew.io?subject=" + subject + "&body=" + body;
+      });
+    </script>
+  </body>
+</html>
+```
