@@ -1,104 +1,152 @@
+```html
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Free Flight Training</title>
-    <meta
-      name="description"
-      content="Free aviation and marine training resources."
-    />
+    <title>freelearning.online</title>
+    <meta name="description" content="freelearning.online" />
+
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9258275639543826"
+      crossorigin="anonymous"
+    ></script>
 
     <style>
       * {
         box-sizing: border-box;
       }
 
+      html,
       body {
         margin: 0;
+        min-height: 100%;
+      }
+
+      body {
         min-height: 100vh;
-        font-family: Arial, Helvetica, sans-serif;
-        background: linear-gradient(135deg, #071225, #0b1f3a);
-        color: white;
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Arial, sans-serif;
+        background:
+          radial-gradient(circle at 20% 20%, rgba(59, 130, 246, 0.28), transparent 34%),
+          radial-gradient(circle at 80% 30%, rgba(20, 184, 166, 0.2), transparent 32%),
+          linear-gradient(135deg, #050b18 0%, #071225 48%, #02141d 100%);
+        color: #ffffff;
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 24px;
+        padding: 28px;
+        overflow-x: hidden;
       }
 
       main {
-        width: 100%;
-        max-width: 760px;
+        width: min(780px, 100%);
         text-align: center;
       }
 
-      h1 {
-        font-size: clamp(36px, 7vw, 64px);
-        margin: 0 0 12px;
+      .panel {
+        position: relative;
+        padding: clamp(28px, 6vw, 54px);
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        border-radius: 32px;
+        background: rgba(8, 19, 37, 0.68);
+        box-shadow: 0 28px 80px rgba(0, 0, 0, 0.42);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        overflow: hidden;
       }
 
-      p {
-        color: #c6d4e3;
-        font-size: 18px;
-        line-height: 1.6;
-        margin: 0 auto 32px;
-        max-width: 620px;
+      .panel::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+          linear-gradient(120deg, rgba(255, 255, 255, 0.12), transparent 35%),
+          radial-gradient(circle at top, rgba(255, 255, 255, 0.08), transparent 38%);
+        pointer-events: none;
+      }
+
+      .content {
+        position: relative;
+        z-index: 1;
+      }
+
+      h1 {
+        margin: 0 0 clamp(28px, 5vw, 44px);
+        font-size: clamp(38px, 7vw, 78px);
+        line-height: 1;
+        letter-spacing: -0.06em;
       }
 
       .buttons {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 16px;
+        gap: clamp(14px, 3vw, 22px);
       }
 
-      a {
-        display: block;
-        padding: 22px 18px;
-        border-radius: 18px;
-        background: rgba(255, 255, 255, 0.1);
-        border: 1px solid rgba(255, 255, 255, 0.2);
-        color: white;
+      a.button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 132px;
+        padding: 26px;
+        border-radius: 26px;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.06));
+        color: #ffffff;
         text-decoration: none;
-        font-size: 22px;
-        font-weight: 800;
+        font-size: clamp(28px, 4vw, 44px);
+        font-weight: 900;
+        letter-spacing: -0.04em;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18);
         transition:
-          transform 0.15s ease,
-          background 0.15s ease;
+          transform 0.18s ease,
+          border-color 0.18s ease,
+          background 0.18s ease,
+          box-shadow 0.18s ease;
       }
 
-      a:hover {
-        transform: translateY(-2px);
-        background: rgba(255, 255, 255, 0.16);
+      a.button:hover,
+      a.button:focus-visible {
+        transform: translateY(-4px);
+        border-color: rgba(147, 197, 253, 0.72);
+        background:
+          linear-gradient(180deg, rgba(59, 130, 246, 0.34), rgba(20, 184, 166, 0.13));
+        box-shadow:
+          inset 0 1px 0 rgba(255, 255, 255, 0.24),
+          0 18px 44px rgba(37, 99, 235, 0.22);
+        outline: none;
       }
 
-      small {
-        display: block;
-        margin-top: 8px;
-        color: #9fb3c9;
-        font-size: 14px;
-        font-weight: 400;
+      .ad-space {
+        position: relative;
+        z-index: 1;
+        margin: clamp(22px, 4vw, 34px) auto 0;
+        min-height: 90px;
+        width: min(728px, 100%);
       }
 
-      footer {
-        margin-top: 36px;
-        color: #8295aa;
-        font-size: 13px;
-      }
+      @media (max-width: 640px) {
+        body {
+          align-items: flex-start;
+          padding: 22px;
+        }
 
-      footer a {
-        display: inline;
-        padding: 0;
-        border: 0;
-        background: none;
-        color: #9fc5ff;
-        font-size: inherit;
-        font-weight: 400;
-        text-decoration: underline;
-      }
+        .panel {
+          margin-top: 24px;
+          padding: 28px 20px;
+          border-radius: 26px;
+        }
 
-      @media (max-width: 620px) {
         .buttons {
           grid-template-columns: 1fr;
+        }
+
+        a.button {
+          min-height: 112px;
         }
       }
     </style>
@@ -106,33 +154,33 @@
 
   <body>
     <main>
-      <h1>Free Flight Training</h1>
-      <p>
-        Choose a training path below. This page is just a simple landing screen
-        for testing the Av8 and SeaHype training tools.
-      </p>
+      <section class="panel">
+        <div class="content">
+          <h1>freelearning.online</h1>
 
-      <div class="buttons">
-        <a href="Av8/">
-          Av8
-          <small>Aviation education and study tools</small>
-        </a>
+          <div class="buttons">
+            <a class="button" href="AV8/">AV8</a>
+            <a class="button" href="SeaHype/">SeaHype</a>
+          </div>
+        </div>
 
-        <a href="SeaHype/">
-          SeaHype
-          <small>Marine and boating education tools</small>
-        </a>
-      </div>
-
-      <footer>
-        <p>
-          Study tools only. Not a substitute for official instruction,
-          certification, or legal requirements.
-        </p>
-        <p>
-          <a href="Av8/legal-notices.txt">Av8 legal notices</a>
-        </p>
-      </footer>
+        <div class="ad-space">
+          <ins
+            class="adsbygoogle"
+            style="display: block"
+            data-ad-client="ca-pub-9258275639543826"
+            data-ad-slot="PASTE_YOUR_AD_SLOT_HERE"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          ></ins>
+          <script>
+            try {
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            } catch (e) {}
+          </script>
+        </div>
+      </section>
     </main>
   </body>
 </html>
+```
