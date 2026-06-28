@@ -1,0 +1,131 @@
+TerraHype Nature Conservation Education
+Legal Notices, Disclaimers, and Safety Information
+=================================================
+
+Last updated: 2025
+
+1. ABOUT THIS APP
+-----------------
+TerraHype Nature Conservation Education ("TerraHype," "the app") is a free,
+offline educational study tool about North American nature and conservation.
+It is published and maintained by its operator under the alias "openNatureDB"
+(referred to here as "the operator"). The app teaches introductory concepts in
+ecology, botany, zoology, geology, habitats, conservation, and field methods
+through bite-sized lessons, quizzes, illustrations, and reference material.
+
+The app runs entirely on your device. It requires no account, collects no
+personal information, and stores your progress only in your own web browser's
+local storage on the device you use. The operator does not receive, transmit,
+or have access to your name, your progress, or any usage data. Clearing your
+browser data, or using the in-app reset, will permanently erase your saved
+progress.
+
+2. EDUCATIONAL USE ONLY — NOT A SUBSTITUTE FOR PROFESSIONAL INSTRUCTION
+----------------------------------------------------------------------
+TerraHype is intended for general education and personal enrichment for a
+broad audience, including younger learners. It is NOT:
+
+  * a substitute for accredited coursework, a formal curriculum, or a degree
+    program in biology, ecology, geology, environmental science, or any
+    related field;
+  * a professional field guide, a scientific authority, or a tool for making
+    decisions about safety, health, foraging, land use, or wildlife handling;
+  * a source of legal, regulatory, medical, veterinary, or safety advice.
+
+The lessons present simplified explanations chosen for clarity. Real natural
+systems are more complex, and scientific understanding changes over time.
+Always confirm important information with qualified educators, peer-reviewed
+sources, and the primary references listed in the app before relying on it.
+
+3. ACCURACY AND "AS IS" DISCLAIMER
+----------------------------------
+The factual content in TerraHype was compiled from publicly available,
+reputable educational and scientific sources, and considerable care was taken
+to keep it accurate. Nevertheless, the content is provided "AS IS" and "AS
+AVAILABLE," without warranties of any kind, whether express or implied,
+including but not limited to accuracy, completeness, fitness for a particular
+purpose, or non-infringement. Errors and omissions may exist. To the fullest
+extent permitted by law, the operator disclaims all liability for any loss,
+injury, or damage of any kind arising from the use of, or reliance on, this
+app or its content.
+
+4. IMPORTANT SAFETY INFORMATION
+-------------------------------
+Nature can be hazardous. Please read and follow these warnings:
+
+  * NEVER eat, taste, or handle any wild mushroom, plant, berry, nut, root, or
+    fungus based on information in this app. Many wild species are poisonous,
+    and some deadly species closely resemble edible ones. Positive
+    identification of anything you intend to eat requires a qualified local
+    expert. This app must never be used to decide whether something wild is
+    safe to consume.
+
+  * Do not touch, capture, feed, corner, or disturb wild animals. Many can
+    bite, sting, scratch, or carry disease, and disturbing wildlife can harm
+    both you and the animal. Observe from a safe, respectful distance.
+
+  * Be aware that some plants (such as poison ivy, poison oak, and others) and
+    some animals are venomous, toxic, or otherwise dangerous to touch.
+
+  * Respect all laws and regulations. Collecting rocks, minerals, fossils,
+    plants, or animals, and entering certain lands, may be restricted or
+    illegal. Many parks, preserves, and protected sites prohibit removing or
+    disturbing natural and cultural materials. Always obtain permission and
+    follow local, state, tribal, and federal rules.
+
+  * Practice "Leave No Trace": stay on trails, pack out everything you bring
+    in, and leave plants, rocks, fossils, and wildlife where you find them.
+
+  * Always prioritize your own safety outdoors: tell someone your plans, watch
+    the weather and terrain, carry water, and supervise children. Minors
+    should explore nature only with a responsible adult.
+
+5. TRADEMARKS, SOURCES, AND NON-AFFILIATION
+-------------------------------------------
+TerraHype is an independent project. It is NOT affiliated with, endorsed by,
+sponsored by, or otherwise connected to any government agency, organization,
+institution, or company, including but not limited to: the U.S. Geological
+Survey (USGS); the National Park Service (NPS); the USDA Forest Service; the
+U.S. Fish & Wildlife Service (USFWS); the USDA Natural Resources Conservation
+Service (NRCS); the U.S. Environmental Protection Agency (EPA); the U.S.
+Department of Agriculture (USDA); the Cornell Lab of Ornithology; the National
+Audubon Society; the National Wildlife Federation (NWF); the International
+Union for Conservation of Nature (IUCN); the Smithsonian Institution;
+Encyclopedia of Life (EOL); the National Geographic Society; or the National
+Aeronautics and Space Administration (NASA).
+
+These and any other organizations or sources are named within the app solely
+to credit and point users toward authoritative reference material, and for
+identification and educational attribution. All trademarks, service marks,
+agency names, and logos are the property of their respective owners. Their
+mention does not imply any partnership, sponsorship, or endorsement in either
+direction.
+
+6. ILLUSTRATIONS AND IMAGERY
+----------------------------
+The in-app illustrations are original, stylized vector graphics created for
+this app and are intended as friendly visual aids, not as scientifically exact
+depictions. When viewed online, the app may also load reference photographs
+from public sources (such as Wikimedia) directly in your browser to illustrate
+species; those images remain the property of their respective creators and
+are subject to their own licenses. No such images are stored or redistributed
+by the app itself.
+
+7. INTELLECTUAL PROPERTY
+------------------------
+The app's software, design, original text, and original artwork are the
+property of the operator. You may use the app for personal, non-commercial
+educational purposes. You may not resell it or present it as your own.
+
+8. CHANGES
+----------
+The operator may update this app and these notices from time to time.
+Continued use of the app constitutes acceptance of the then-current notices.
+
+9. CONTACT
+----------
+Questions about these notices may be directed to the operator, openNatureDB.
+
+By using TerraHype Nature Conservation Education, you acknowledge that you have
+read, understood, and agreed to these notices, disclaimers, and safety
+information.
