@@ -295,6 +295,18 @@
         animation: dolphinJump 1.1s ease-out forwards;
       }
 
+      .button.terra:hover::after,
+.button.terra:focus-visible::after {
+  opacity: 1;
+  animation: leafFloat 1.1s ease-out forwards;
+}
+
+.button.astro:hover::after,
+.button.astro:focus-visible::after {
+  opacity: 1;
+  animation: rocketLaunch 1.15s ease-out forwards;
+}
+
       @keyframes buttonShine {
         from { transform: translateX(-80%); }
         to { transform: translateX(80%); }
@@ -312,6 +324,18 @@
         52% { transform: translateX(210px) translateY(-64px) rotate(18deg); opacity: 1; }
         100% { transform: translateX(430px) translateY(24px) rotate(28deg); opacity: 0; }
       }
+      @keyframes leafFloat {
+  0% { transform: translateX(0) translateY(20px) rotate(-12deg); opacity: 0; }
+  18% { opacity: 1; }
+  55% { transform: translateX(220px) translateY(-42px) rotate(18deg); opacity: 1; }
+  100% { transform: translateX(430px) translateY(10px) rotate(34deg); opacity: 0; }
+}
+
+@keyframes rocketLaunch {
+  0% { transform: translateX(0) translateY(28px) rotate(18deg); opacity: 0; }
+  18% { opacity: 1; }
+  100% { transform: translateX(430px) translateY(-58px) rotate(4deg); opacity: 0; }
+}
 
       .coming-soon {
         margin: clamp(26px, 5vw, 46px) auto 0;
@@ -447,6 +471,28 @@
           transition: none !important;
         }
       }
+
+.button.terra {
+  --accent: #65a30d;
+}
+
+.button.astro {
+  --accent: #7c3aed;
+}
+
+.button.terra::after {
+  content: "🌱";
+  left: -70px;
+  bottom: 20%;
+}
+
+.button.astro::after {
+  content: "🚀";
+  left: -70px;
+  top: 18%;
+  transform: rotate(10deg);
+}
+      
     </style>
   </head>
 
@@ -459,10 +505,12 @@
         <div class="inner">
           <h1>freelearning.online</h1>
 
-          <div class="buttons">
-            <a class="button av8" href="Av8/"><span>Av8</span></a>
-            <a class="button sea" href="SeaHype/"><span>SeaHype</span></a>
-          </div>
+<div class="buttons">
+  <a class="button av8" href="Av8/"><span>Av8</span></a>
+  <a class="button sea" href="SeaHype/"><span>SeaHype</span></a>
+  <a class="button terra" href="TerraHype/"><span>TerraHype</span></a>
+  <a class="button astro" href="AstroHype/"><span>AstroHype</span></a>
+</div>
 
           <div class="coming-soon" aria-label="Coming soon">
             <span class="pill">More coming soon</span>
